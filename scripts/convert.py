@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 import os
 
 SRC_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
-OUT_PATH = "output/alidns_chinamax_host.module"
+OUT_PATH = "output/alidns_chinamax_host.list"
 DNS = "https://dns.alidns.com/dns-query"
 
 def fetch(url: str) -> str:
