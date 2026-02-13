@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "15 2 * * *"   # 每天 UTC 02:15 自动运行
 
+permissions:
+  contents: write
+
 jobs:
   gen:
     runs-on: ubuntu-latest
