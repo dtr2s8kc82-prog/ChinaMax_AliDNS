@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-05-31 06:34:34Z
+#!updated=2026-06-01 07:22:24Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -13106,7 +13106,6 @@
 *.aryasec.com = server:https://dns.alidns.com/dns-query
 *.as-doll.com = server:https://dns.alidns.com/dns-query
 *.as-hitech.com = server:https://dns.alidns.com/dns-query
-*.as.mr = server:https://dns.alidns.com/dns-query
 *.as16.com = server:https://dns.alidns.com/dns-query
 *.as3f.com = server:https://dns.alidns.com/dns-query
 *.as5.com = server:https://dns.alidns.com/dns-query
