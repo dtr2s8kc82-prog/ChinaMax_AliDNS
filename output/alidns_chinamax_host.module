@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-06-11 07:04:00Z
+#!updated=2026-06-12 06:54:57Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -10599,6 +10599,7 @@
 *.ahceisc.com = server:https://dns.alidns.com/dns-query
 *.ahcfrc.com = server:https://dns.alidns.com/dns-query
 *.ahchanye.com = server:https://dns.alidns.com/dns-query
+*.ahcjw.com = server:https://dns.alidns.com/dns-query
 *.ahcnb.com = server:https://dns.alidns.com/dns-query
 *.ahcoating.com = server:https://dns.alidns.com/dns-query
 *.ahcsdz.com = server:https://dns.alidns.com/dns-query
@@ -42295,6 +42296,7 @@
 *.gxxlzyc.com = server:https://dns.alidns.com/dns-query
 *.gxxmglzx.com = server:https://dns.alidns.com/dns-query
 *.gxxmjjs.com = server:https://dns.alidns.com/dns-query
+*.gxxmt.com = server:https://dns.alidns.com/dns-query
 *.gxxmyjs.com = server:https://dns.alidns.com/dns-query
 *.gxxqsm.com = server:https://dns.alidns.com/dns-query
 *.gxxrf.com = server:https://dns.alidns.com/dns-query
@@ -52431,6 +52433,7 @@
 *.ishenping.com = server:https://dns.alidns.com/dns-query
 *.ishenyou.com = server:https://dns.alidns.com/dns-query
 *.ishijing.com = server:https://dns.alidns.com/dns-query
+*.ishijue.com = server:https://dns.alidns.com/dns-query
 *.ishipoffshore.com = server:https://dns.alidns.com/dns-query
 *.ishouhong.com = server:https://dns.alidns.com/dns-query
 *.ishouka.com = server:https://dns.alidns.com/dns-query
@@ -60254,6 +60257,7 @@
 *.landed.cc = server:https://dns.alidns.com/dns-query
 *.landhonor.com = server:https://dns.alidns.com/dns-query
 *.landi.com = server:https://dns.alidns.com/dns-query
+*.landian.news = server:https://dns.alidns.com/dns-query
 *.landian.vip = server:https://dns.alidns.com/dns-query
 *.landian.xyz = server:https://dns.alidns.com/dns-query
 *.landiannews.com = server:https://dns.alidns.com/dns-query
@@ -69390,6 +69394,7 @@
 *.nfmrtfv.com = server:https://dns.alidns.com/dns-query
 *.nfnews.com = server:https://dns.alidns.com/dns-query
 *.nfoservers.com = server:https://dns.alidns.com/dns-query
+*.nfpeople.com = server:https://dns.alidns.com/dns-query
 *.nfqbyp.com = server:https://dns.alidns.com/dns-query
 *.nfs-china.com = server:https://dns.alidns.com/dns-query
 *.nfschina.com = server:https://dns.alidns.com/dns-query
@@ -70832,6 +70837,7 @@
 *.nprc.net = server:https://dns.alidns.com/dns-query
 *.npsdyyy.com = server:https://dns.alidns.com/dns-query
 *.npsel.com = server:https://dns.alidns.com/dns-query
+*.npsv6.com = server:https://dns.alidns.com/dns-query
 *.nptpark.com = server:https://dns.alidns.com/dns-query
 *.nptparking.com = server:https://dns.alidns.com/dns-query
 *.nptwedding.com = server:https://dns.alidns.com/dns-query
@@ -92447,6 +92453,7 @@
 *.ucpaas.com = server:https://dns.alidns.com/dns-query
 *.ucpchina.com = server:https://dns.alidns.com/dns-query
 *.ucpopo.com = server:https://dns.alidns.com/dns-query
+*.ucppt.com = server:https://dns.alidns.com/dns-query
 *.ucren.com = server:https://dns.alidns.com/dns-query
 *.ucsanya.com = server:https://dns.alidns.com/dns-query
 *.ucss.ninja = server:https://dns.alidns.com/dns-query
@@ -93485,6 +93492,7 @@
 *.vcd.io = server:https://dns.alidns.com/dns-query
 *.vcdnga.com = server:https://dns.alidns.com/dns-query
 *.vcg.com = server:https://dns.alidns.com/dns-query
+*.vcgapi.com = server:https://dns.alidns.com/dns-query
 *.vchangyi.com = server:https://dns.alidns.com/dns-query
 *.vcimg.com = server:https://dns.alidns.com/dns-query
 *.vcinchina.com = server:https://dns.alidns.com/dns-query
