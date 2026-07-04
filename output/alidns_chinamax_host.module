@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-03 06:03:26Z
+#!updated=2026-07-04 05:54:14Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -7709,6 +7709,7 @@
 *.777haoka.com = server:https://dns.alidns.com/dns-query
 *.777lala.com = server:https://dns.alidns.com/dns-query
 *.777moban.com = server:https://dns.alidns.com/dns-query
+*.777ppt.com = server:https://dns.alidns.com/dns-query
 *.777sy.com = server:https://dns.alidns.com/dns-query
 *.777yh.am = server:https://dns.alidns.com/dns-query
 *.7788.com = server:https://dns.alidns.com/dns-query
@@ -10189,6 +10190,7 @@
 *.admin345.com = server:https://dns.alidns.com/dns-query
 *.admin5.net = server:https://dns.alidns.com/dns-query
 *.admin88.com = server:https://dns.alidns.com/dns-query
+*.admincdn.com = server:https://dns.alidns.com/dns-query
 *.admintony.com = server:https://dns.alidns.com/dns-query
 *.adminxe.com = server:https://dns.alidns.com/dns-query
 *.adminxy.com = server:https://dns.alidns.com/dns-query
@@ -15039,6 +15041,7 @@
 *.beidousafety.org = server:https://dns.alidns.com/dns-query
 *.beidouxingxueche.com = server:https://dns.alidns.com/dns-query
 *.beiduolab.com = server:https://dns.alidns.com/dns-query
+*.beie.org = server:https://dns.alidns.com/dns-query
 *.beierbio.com = server:https://dns.alidns.com/dns-query
 *.beierjin.net = server:https://dns.alidns.com/dns-query
 *.beieryouxi.com = server:https://dns.alidns.com/dns-query
@@ -40260,6 +40263,7 @@
 *.guojiayikao.com = server:https://dns.alidns.com/dns-query
 *.guojiayixuekaoshi.com = server:https://dns.alidns.com/dns-query
 *.guojiazhiyezige.com = server:https://dns.alidns.com/dns-query
+*.guojibk.com = server:https://dns.alidns.com/dns-query
 *.guojiexpress.com = server:https://dns.alidns.com/dns-query
 *.guojijinjia.com = server:https://dns.alidns.com/dns-query
 *.guojimami.com = server:https://dns.alidns.com/dns-query
@@ -78097,6 +78101,7 @@
 *.rrjc.com = server:https://dns.alidns.com/dns-query
 *.rrkf.com = server:https://dns.alidns.com/dns-query
 *.rrky.com = server:https://dns.alidns.com/dns-query
+*.rrmj.plus = server:https://dns.alidns.com/dns-query
 *.rrmj.tv = server:https://dns.alidns.com/dns-query
 *.rrppt.com = server:https://dns.alidns.com/dns-query
 *.rrrdai.com = server:https://dns.alidns.com/dns-query
@@ -89976,6 +89981,7 @@
 *.tokenglish.com = server:https://dns.alidns.com/dns-query
 *.tokensky.net = server:https://dns.alidns.com/dns-query
 *.tokimekiclub.org = server:https://dns.alidns.com/dns-query
+*.tol.vip = server:https://dns.alidns.com/dns-query
 *.tol24.com = server:https://dns.alidns.com/dns-query
 *.tom.cat = server:https://dns.alidns.com/dns-query
 *.tom.com = server:https://dns.alidns.com/dns-query
@@ -93687,6 +93693,7 @@
 *.vpsrb.com = server:https://dns.alidns.com/dns-query
 *.vpsss.net = server:https://dns.alidns.com/dns-query
 *.vpssw.com = server:https://dns.alidns.com/dns-query
+*.vpsvs.com = server:https://dns.alidns.com/dns-query
 *.vpsvsvps.com = server:https://dns.alidns.com/dns-query
 *.vpszh.com = server:https://dns.alidns.com/dns-query
 *.vptek.com = server:https://dns.alidns.com/dns-query
@@ -95368,6 +95375,7 @@
 *.wenmi114.com = server:https://dns.alidns.com/dns-query
 *.wenmingban.com = server:https://dns.alidns.com/dns-query
 *.wenneart.com = server:https://dns.alidns.com/dns-query
+*.wenpai.org = server:https://dns.alidns.com/dns-query
 *.wenpie.com = server:https://dns.alidns.com/dns-query
 *.wenqy.com = server:https://dns.alidns.com/dns-query
 *.wenroo.com = server:https://dns.alidns.com/dns-query
@@ -96990,6 +96998,7 @@
 *.wpceo.com = server:https://dns.alidns.com/dns-query
 *.wpcio.com = server:https://dns.alidns.com/dns-query
 *.wpcsh.com = server:https://dns.alidns.com/dns-query
+*.wpcy.com = server:https://dns.alidns.com/dns-query
 *.wpdaxue.com = server:https://dns.alidns.com/dns-query
 *.wpdian.com = server:https://dns.alidns.com/dns-query
 *.wpengapp.com = server:https://dns.alidns.com/dns-query
