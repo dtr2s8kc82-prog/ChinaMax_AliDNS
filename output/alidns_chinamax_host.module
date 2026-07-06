@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-05 06:14:04Z
+#!updated=2026-07-06 06:46:17Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -32415,7 +32415,6 @@
 *.embryochina.com = server:https://dns.alidns.com/dns-query
 *.embsky.com = server:https://dns.alidns.com/dns-query
 *.emby.men = server:https://dns.alidns.com/dns-query
-*.emby.yun = server:https://dns.alidns.com/dns-query
 *.embyvip.org = server:https://dns.alidns.com/dns-query
 *.emcbj.com = server:https://dns.alidns.com/dns-query
 *.emcdir.com = server:https://dns.alidns.com/dns-query
