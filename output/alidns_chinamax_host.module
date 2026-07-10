@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-09 06:14:32Z
+#!updated=2026-07-10 06:14:21Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -91366,6 +91366,7 @@
 *.twty.vip = server:https://dns.alidns.com/dns-query
 *.twwtn.com = server:https://dns.alidns.com/dns-query
 *.twyuxin.com = server:https://dns.alidns.com/dns-query
+*.twyxh.com = server:https://dns.alidns.com/dns-query
 *.twyxi.com = server:https://dns.alidns.com/dns-query
 *.twz1t32lzy.com = server:https://dns.alidns.com/dns-query
 *.twzilla.com = server:https://dns.alidns.com/dns-query
@@ -111568,6 +111569,7 @@
 *.zwzyzx.com = server:https://dns.alidns.com/dns-query
 *.zx-tour.com = server:https://dns.alidns.com/dns-query
 *.zx-xcx.com = server:https://dns.alidns.com/dns-query
+*.zx.com = server:https://dns.alidns.com/dns-query
 *.zx0093.com = server:https://dns.alidns.com/dns-query
 *.zx017.com = server:https://dns.alidns.com/dns-query
 *.zx017.net = server:https://dns.alidns.com/dns-query
