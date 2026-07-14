@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-13 05:47:52Z
+#!updated=2026-07-14 05:08:49Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -10083,6 +10083,7 @@
 *.ad77.com = server:https://dns.alidns.com/dns-query
 *.ad778.com = server:https://dns.alidns.com/dns-query
 *.ada-post.com = server:https://dns.alidns.com/dns-query
+*.adacpp.com = server:https://dns.alidns.com/dns-query
 *.adamahf.com = server:https://dns.alidns.com/dns-query
 *.adamcdn.com = server:https://dns.alidns.com/dns-query
 *.adamcoder.com = server:https://dns.alidns.com/dns-query
@@ -24667,6 +24668,7 @@
 *.color-measure.com = server:https://dns.alidns.com/dns-query
 *.color365.com = server:https://dns.alidns.com/dns-query
 *.colorbird.com = server:https://dns.alidns.com/dns-query
+*.colorfulclouds.com = server:https://dns.alidns.com/dns-query
 *.colorfulclouds.net = server:https://dns.alidns.com/dns-query
 *.colorfulltech.net = server:https://dns.alidns.com/dns-query
 *.colorimeter.com = server:https://dns.alidns.com/dns-query
@@ -30791,6 +30793,7 @@
 *.duoyi.com = server:https://dns.alidns.com/dns-query
 *.duoying.com = server:https://dns.alidns.com/dns-query
 *.duoyinsu.com = server:https://dns.alidns.com/dns-query
+*.duoyiwangluo.com = server:https://dns.alidns.com/dns-query
 *.duoyoumi.com = server:https://dns.alidns.com/dns-query
 *.duozhi.com = server:https://dns.alidns.com/dns-query
 *.duozhuayu.com = server:https://dns.alidns.com/dns-query
@@ -39717,6 +39720,7 @@
 *.gtetern.com = server:https://dns.alidns.com/dns-query
 *.gtfund.com = server:https://dns.alidns.com/dns-query
 *.gtg56.com = server:https://dns.alidns.com/dns-query
+*.gtgjtrip.com = server:https://dns.alidns.com/dns-query
 *.gtgqw.com = server:https://dns.alidns.com/dns-query
 *.gtgres.com = server:https://dns.alidns.com/dns-query
 *.gtht.com = server:https://dns.alidns.com/dns-query
@@ -58494,6 +58498,7 @@
 *.klhpw.com = server:https://dns.alidns.com/dns-query
 *.klhuyan.com = server:https://dns.alidns.com/dns-query
 *.klicen.com = server:https://dns.alidns.com/dns-query
+*.kling-ai.com = server:https://dns.alidns.com/dns-query
 *.klingai.com = server:https://dns.alidns.com/dns-query
 *.klinlee.com = server:https://dns.alidns.com/dns-query
 *.klisedu.com = server:https://dns.alidns.com/dns-query
@@ -60891,6 +60896,7 @@
 *.leyoo.com = server:https://dns.alidns.com/dns-query
 *.leyoujia.com = server:https://dns.alidns.com/dns-query
 *.leyu.com = server:https://dns.alidns.com/dns-query
+*.leyuansu.com = server:https://dns.alidns.com/dns-query
 *.leyue100.com = server:https://dns.alidns.com/dns-query
 *.leyuglobal.com = server:https://dns.alidns.com/dns-query
 *.leyun365.com = server:https://dns.alidns.com/dns-query
@@ -81152,6 +81158,7 @@
 *.shedongyun.com = server:https://dns.alidns.com/dns-query
 *.shedoor.com = server:https://dns.alidns.com/dns-query
 *.shedunews.com = server:https://dns.alidns.com/dns-query
+*.shedunews.net = server:https://dns.alidns.com/dns-query
 *.sheec-tencentclb.cloud = server:https://dns.alidns.com/dns-query
 *.sheec-tencentclb.com = server:https://dns.alidns.com/dns-query
 *.sheec-tencentclb.net = server:https://dns.alidns.com/dns-query
@@ -99209,6 +99216,7 @@
 *.xiaomei.cc = server:https://dns.alidns.com/dns-query
 *.xiaomeiti.com = server:https://dns.alidns.com/dns-query
 *.xiaomeng1235.com = server:https://dns.alidns.com/dns-query
+*.xiaomengai.com = server:https://dns.alidns.com/dns-query
 *.xiaomi.com = server:https://dns.alidns.com/dns-query
 *.xiaomi.hk = server:https://dns.alidns.com/dns-query
 *.xiaomi.net = server:https://dns.alidns.com/dns-query
@@ -103310,6 +103318,7 @@
 *.ygct.com = server:https://dns.alidns.com/dns-query
 *.ygdatabase.com = server:https://dns.alidns.com/dns-query
 *.ygdl.com = server:https://dns.alidns.com/dns-query
+*.ygduoyi.com = server:https://dns.alidns.com/dns-query
 *.yge.me = server:https://dns.alidns.com/dns-query
 *.ygeer.com = server:https://dns.alidns.com/dns-query
 *.ygei.com = server:https://dns.alidns.com/dns-query
@@ -110696,6 +110705,7 @@
 *.zmsq.com = server:https://dns.alidns.com/dns-query
 *.zmssh.com = server:https://dns.alidns.com/dns-query
 *.zmtpc.com = server:https://dns.alidns.com/dns-query
+*.zmtqsh.com = server:https://dns.alidns.com/dns-query
 *.zmtquan.com = server:https://dns.alidns.com/dns-query
 *.zmufivehospital.com = server:https://dns.alidns.com/dns-query
 *.zmumu.com = server:https://dns.alidns.com/dns-query
