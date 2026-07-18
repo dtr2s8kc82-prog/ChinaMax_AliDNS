@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-17 05:22:03Z
+#!updated=2026-07-18 05:04:26Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -27933,6 +27933,7 @@
 *.dcyz.com = server:https://dns.alidns.com/dns-query
 *.dcyzq.com = server:https://dns.alidns.com/dns-query
 *.dczcsc.com = server:https://dns.alidns.com/dns-query
+*.dczcy.com = server:https://dns.alidns.com/dns-query
 *.dczkj.com = server:https://dns.alidns.com/dns-query
 *.dczy168.com = server:https://dns.alidns.com/dns-query
 *.dd-advisor.com = server:https://dns.alidns.com/dns-query
@@ -28910,6 +28911,7 @@
 *.didichuxing.com = server:https://dns.alidns.com/dns-query
 *.dididapiao.com = server:https://dns.alidns.com/dns-query
 *.dididi88.com = server:https://dns.alidns.com/dns-query
+*.didifinance.com = server:https://dns.alidns.com/dns-query
 *.didiglobal.com = server:https://dns.alidns.com/dns-query
 *.didimobility.co.jp = server:https://dns.alidns.com/dns-query
 *.didimobility.com = server:https://dns.alidns.com/dns-query
@@ -35759,6 +35761,7 @@
 *.fuca-china.com = server:https://dns.alidns.com/dns-query
 *.fucantec.com = server:https://dns.alidns.com/dns-query
 *.fuchaipower.com = server:https://dns.alidns.com/dns-query
+*.fuchenkj.com = server:https://dns.alidns.com/dns-query
 *.fuchuangyu.com = server:https://dns.alidns.com/dns-query
 *.fucol.club = server:https://dns.alidns.com/dns-query
 *.fuczx.com = server:https://dns.alidns.com/dns-query
@@ -47240,6 +47243,7 @@
 *.hrs100.com = server:https://dns.alidns.com/dns-query
 *.hrsalon.org = server:https://dns.alidns.com/dns-query
 *.hrsay.com = server:https://dns.alidns.com/dns-query
+*.hrsecn.com = server:https://dns.alidns.com/dns-query
 *.hrsee.com = server:https://dns.alidns.com/dns-query
 *.hrsel.com = server:https://dns.alidns.com/dns-query
 *.hrsoft-china.com = server:https://dns.alidns.com/dns-query
@@ -53886,6 +53890,7 @@
 *.jieshui8.com = server:https://dns.alidns.com/dns-query
 *.jieshuitech.com = server:https://dns.alidns.com/dns-query
 *.jieshuwang.com = server:https://dns.alidns.com/dns-query
+*.jietianz.com = server:https://dns.alidns.com/dns-query
 *.jietu365.com = server:https://dns.alidns.com/dns-query
 *.jietuhb.com = server:https://dns.alidns.com/dns-query
 *.jietuosh.com = server:https://dns.alidns.com/dns-query
@@ -79727,6 +79732,7 @@
 *.sdseshealth.com = server:https://dns.alidns.com/dns-query
 *.sdsfjy.com = server:https://dns.alidns.com/dns-query
 *.sdshangya.com = server:https://dns.alidns.com/dns-query
+*.sdshdc.com = server:https://dns.alidns.com/dns-query
 *.sdshgk.com = server:https://dns.alidns.com/dns-query
 *.sdshihua.com = server:https://dns.alidns.com/dns-query
 *.sdshitu.com = server:https://dns.alidns.com/dns-query
@@ -81409,6 +81415,7 @@
 *.shicaizhanlan.com = server:https://dns.alidns.com/dns-query
 *.shicehao.com = server:https://dns.alidns.com/dns-query
 *.shichangbu.com = server:https://dns.alidns.com/dns-query
+*.shicheng6.com = server:https://dns.alidns.com/dns-query
 *.shichengbao.com = server:https://dns.alidns.com/dns-query
 *.shichengyi.com = server:https://dns.alidns.com/dns-query
 *.shichuangsj.com = server:https://dns.alidns.com/dns-query
@@ -91839,6 +91846,7 @@
 *.ulikestatic.com = server:https://dns.alidns.com/dns-query
 *.ulinix.com = server:https://dns.alidns.com/dns-query
 *.ulinix.tv = server:https://dns.alidns.com/dns-query
+*.ulongemg.com = server:https://dns.alidns.com/dns-query
 *.ulpay.com = server:https://dns.alidns.com/dns-query
 *.ultracachenode.com = server:https://dns.alidns.com/dns-query
 *.ultraeda.com = server:https://dns.alidns.com/dns-query
@@ -106598,6 +106606,7 @@
 *.yximgs.com = server:https://dns.alidns.com/dns-query
 *.yxin18.com = server:https://dns.alidns.com/dns-query
 *.yxinbao.com = server:https://dns.alidns.com/dns-query
+*.yxingfan.com = server:https://dns.alidns.com/dns-query
 *.yxintent.com = server:https://dns.alidns.com/dns-query
 *.yxit.net = server:https://dns.alidns.com/dns-query
 *.yxixy.com = server:https://dns.alidns.com/dns-query
@@ -111811,6 +111820,7 @@ amdlive-ch03.ctnd.com.edgesuite.net = server:https://dns.alidns.com/dns-query
 amdlive.ctnd.com.edgesuite.net = server:https://dns.alidns.com/dns-query
 analytics.strava.com = server:https://dns.alidns.com/dns-query
 antvlive.ab5c6921.cdnviet.com = server:https://dns.alidns.com/dns-query
+api.blipsandchitz.me = server:https://dns.alidns.com/dns-query
 app-analytics-services.com = server:https://dns.alidns.com/dns-query
 app-measurement-cn.com = server:https://dns.alidns.com/dns-query
 app-measurement.com = server:https://dns.alidns.com/dns-query
