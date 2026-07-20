@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-19 05:31:08Z
+#!updated=2026-07-20 05:48:47Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -67454,6 +67454,7 @@
 *.mychuguan.com = server:https://dns.alidns.com/dns-query
 *.mychunyan.net = server:https://dns.alidns.com/dns-query
 *.myckjr.com = server:https://dns.alidns.com/dns-query
+*.mycloudnas.com = server:https://dns.alidns.com/dns-query
 *.mycloudstudy.com = server:https://dns.alidns.com/dns-query
 *.myclub2.com = server:https://dns.alidns.com/dns-query
 *.mycnc.org = server:https://dns.alidns.com/dns-query
