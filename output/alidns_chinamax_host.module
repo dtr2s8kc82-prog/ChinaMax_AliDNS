@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-23 05:33:21Z
+#!updated=2026-07-24 05:29:12Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -19397,6 +19397,7 @@
 *.cd-zc.com = server:https://dns.alidns.com/dns-query
 *.cd00c44f211031.beer = server:https://dns.alidns.com/dns-query
 *.cd120.com = server:https://dns.alidns.com/dns-query
+*.cd120.info = server:https://dns.alidns.com/dns-query
 *.cd12371.com = server:https://dns.alidns.com/dns-query
 *.cd1958.com = server:https://dns.alidns.com/dns-query
 *.cd20.net = server:https://dns.alidns.com/dns-query
@@ -66550,6 +66551,7 @@
 *.moe321.com = server:https://dns.alidns.com/dns-query
 *.moeclub.org = server:https://dns.alidns.com/dns-query
 *.moedot.net = server:https://dns.alidns.com/dns-query
+*.moedu.com = server:https://dns.alidns.com/dns-query
 *.moeelf.com = server:https://dns.alidns.com/dns-query
 *.moefactory.com = server:https://dns.alidns.com/dns-query
 *.moefantasy.com = server:https://dns.alidns.com/dns-query
@@ -90630,6 +90632,7 @@
 *.tsingpost.com = server:https://dns.alidns.com/dns-query
 *.tsingshang.com = server:https://dns.alidns.com/dns-query
 *.tsingtek.com = server:https://dns.alidns.com/dns-query
+*.tsingtengms.com = server:https://dns.alidns.com/dns-query
 *.tsingtoo.com = server:https://dns.alidns.com/dns-query
 *.tsingtuo.com = server:https://dns.alidns.com/dns-query
 *.tsingyangroup.com = server:https://dns.alidns.com/dns-query
@@ -98260,6 +98263,7 @@
 *.xcxymw.com = server:https://dns.alidns.com/dns-query
 *.xcxzww.com = server:https://dns.alidns.com/dns-query
 *.xcyg.net = server:https://dns.alidns.com/dns-query
+*.xcz.im = server:https://dns.alidns.com/dns-query
 *.xczhmzb.com = server:https://dns.alidns.com/dns-query
 *.xczhsh.com = server:https://dns.alidns.com/dns-query
 *.xczim.com = server:https://dns.alidns.com/dns-query
