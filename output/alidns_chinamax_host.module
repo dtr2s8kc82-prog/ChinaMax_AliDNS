@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-07-29 05:30:48Z
+#!updated=2026-07-30 05:17:00Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -100629,6 +100629,7 @@
 *.xmmuye.com = server:https://dns.alidns.com/dns-query
 *.xmnjdwx.com = server:https://dns.alidns.com/dns-query
 *.xmocloud01.com = server:https://dns.alidns.com/dns-query
+*.xmoj.tech = server:https://dns.alidns.com/dns-query
 *.xmonecode.com = server:https://dns.alidns.com/dns-query
 *.xmos.tv = server:https://dns.alidns.com/dns-query
 *.xmov.ai = server:https://dns.alidns.com/dns-query
