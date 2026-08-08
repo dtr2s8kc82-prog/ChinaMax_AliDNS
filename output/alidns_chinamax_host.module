@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-08-07 04:32:00Z
+#!updated=2026-08-08 03:42:17Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -63592,6 +63592,7 @@
 *.madajiefood.com = server:https://dns.alidns.com/dns-query
 *.madaomall.com = server:https://dns.alidns.com/dns-query
 *.madboxi.com = server:https://dns.alidns.com/dns-query
+*.made-in-china.com = server:https://dns.alidns.com/dns-query
 *.madefuns.com = server:https://dns.alidns.com/dns-query
 *.madeinchinastone.com = server:https://dns.alidns.com/dns-query
 *.madewei.com = server:https://dns.alidns.com/dns-query
@@ -65324,6 +65325,7 @@
 *.microxiang.com = server:https://dns.alidns.com/dns-query
 *.microyan.com = server:https://dns.alidns.com/dns-query
 *.microzuji.com = server:https://dns.alidns.com/dns-query
+*.micstatic.com = server:https://dns.alidns.com/dns-query
 *.mictormedical.com = server:https://dns.alidns.com/dns-query
 *.micu.hk = server:https://dns.alidns.com/dns-query
 *.micun.com = server:https://dns.alidns.com/dns-query
@@ -72965,6 +72967,7 @@
 *.powerchinayun.com = server:https://dns.alidns.com/dns-query
 *.powerde.com = server:https://dns.alidns.com/dns-query
 *.powereasy.net = server:https://dns.alidns.com/dns-query
+*.poweremarket.com = server:https://dns.alidns.com/dns-query
 *.powerex1.com = server:https://dns.alidns.com/dns-query
 *.powerflow-tech.com = server:https://dns.alidns.com/dns-query
 *.powerfulchina.com = server:https://dns.alidns.com/dns-query
