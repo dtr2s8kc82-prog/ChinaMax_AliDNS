@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-08-09 03:52:20Z
+#!updated=2026-08-10 04:05:38Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -60914,6 +60914,7 @@
 *.lifevc.com = server:https://dns.alidns.com/dns-query
 *.lifevccdn.com = server:https://dns.alidns.com/dns-query
 *.lifeweeker.com = server:https://dns.alidns.com/dns-query
+*.lifexue.com = server:https://dns.alidns.com/dns-query
 *.lifeyk.com = server:https://dns.alidns.com/dns-query
 *.lifeyn.net = server:https://dns.alidns.com/dns-query
 *.lifezb.com = server:https://dns.alidns.com/dns-query
