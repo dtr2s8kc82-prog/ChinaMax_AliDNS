@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-08-11 03:54:26Z
+#!updated=2026-08-12 04:16:32Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -51327,6 +51327,8 @@
 *.iot688.com = server:https://dns.alidns.com/dns-query
 *.iot889.com = server:https://dns.alidns.com/dns-query
 *.iotachem.com = server:https://dns.alidns.com/dns-query
+*.iotaskyt.com = server:https://dns.alidns.com/dns-query
+*.iotaskyty.com = server:https://dns.alidns.com/dns-query
 *.iotbay.com = server:https://dns.alidns.com/dns-query
 *.iotfair.net = server:https://dns.alidns.com/dns-query
 *.iotku.com = server:https://dns.alidns.com/dns-query
@@ -87234,6 +87236,7 @@
 *.tbbbk.com = server:https://dns.alidns.com/dns-query
 *.tbcache.com = server:https://dns.alidns.com/dns-query
 *.tbcdn.com = server:https://dns.alidns.com/dns-query
+*.tbdesk.com = server:https://dns.alidns.com/dns-query
 *.tbh5.com = server:https://dns.alidns.com/dns-query
 *.tbhcc.com = server:https://dns.alidns.com/dns-query
 *.tbhelper.com = server:https://dns.alidns.com/dns-query
