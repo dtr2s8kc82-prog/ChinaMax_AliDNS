@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-08-13 04:19:57Z
+#!updated=2026-08-14 04:17:13Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -2424,6 +2424,7 @@
 *.194nb.com = server:https://dns.alidns.com/dns-query
 *.195155.com = server:https://dns.alidns.com/dns-query
 *.195268032591463.icu = server:https://dns.alidns.com/dns-query
+*.1958xy.com = server:https://dns.alidns.com/dns-query
 *.195idc.com = server:https://dns.alidns.com/dns-query
 *.196b7adb23969e39.com = server:https://dns.alidns.com/dns-query
 *.196g.com = server:https://dns.alidns.com/dns-query
@@ -4036,6 +4037,7 @@
 *.36kr.net = server:https://dns.alidns.com/dns-query
 *.36krcdn.com = server:https://dns.alidns.com/dns-query
 *.36krcnd.com = server:https://dns.alidns.com/dns-query
+*.36linkr.com = server:https://dns.alidns.com/dns-query
 *.36pnes36t0qs.com = server:https://dns.alidns.com/dns-query
 *.36qp.com = server:https://dns.alidns.com/dns-query
 *.36rv3j3.shop = server:https://dns.alidns.com/dns-query
@@ -14059,7 +14061,6 @@
 *.bamboofactorychina.com = server:https://dns.alidns.com/dns-query
 *.bambooolab.com = server:https://dns.alidns.com/dns-query
 *.bambu-lab.com = server:https://dns.alidns.com/dns-query
-*.bambulab.com = server:https://dns.alidns.com/dns-query
 *.bamengame.com = server:https://dns.alidns.com/dns-query
 *.bamensq.com = server:https://dns.alidns.com/dns-query
 *.bamenzhushou.com = server:https://dns.alidns.com/dns-query
@@ -16614,6 +16615,7 @@
 *.bktencent.com = server:https://dns.alidns.com/dns-query
 *.bktsj.com = server:https://dns.alidns.com/dns-query
 *.bkweek.com = server:https://dns.alidns.com/dns-query
+*.bkzhibo.com = server:https://dns.alidns.com/dns-query
 *.bkzzy.com = server:https://dns.alidns.com/dns-query
 *.bl.com = server:https://dns.alidns.com/dns-query
 *.bl0757.com = server:https://dns.alidns.com/dns-query
@@ -52953,6 +52955,7 @@
 *.jgsemicon.com = server:https://dns.alidns.com/dns-query
 *.jgstour.com = server:https://dns.alidns.com/dns-query
 *.jgsxfw.com = server:https://dns.alidns.com/dns-query
+*.jgtab.link = server:https://dns.alidns.com/dns-query
 *.jgtc315.com = server:https://dns.alidns.com/dns-query
 *.jguanjia.com = server:https://dns.alidns.com/dns-query
 *.jgums.com = server:https://dns.alidns.com/dns-query
@@ -54697,6 +54700,7 @@
 *.jkyule.com = server:https://dns.alidns.com/dns-query
 *.jkzhilu.com = server:https://dns.alidns.com/dns-query
 *.jkzl.com = server:https://dns.alidns.com/dns-query
+*.jkzlrs.com = server:https://dns.alidns.com/dns-query
 *.jkzn365.com = server:https://dns.alidns.com/dns-query
 *.jl-er.com = server:https://dns.alidns.com/dns-query
 *.jl-jssk.com = server:https://dns.alidns.com/dns-query
@@ -56347,6 +56351,7 @@
 *.juwanhezi.com = server:https://dns.alidns.com/dns-query
 *.juwanshe.com = server:https://dns.alidns.com/dns-query
 *.juweixin.com = server:https://dns.alidns.com/dns-query
+*.juwinmedia.com = server:https://dns.alidns.com/dns-query
 *.juwuxian.com = server:https://dns.alidns.com/dns-query
 *.juxia.com = server:https://dns.alidns.com/dns-query
 *.juxian.com = server:https://dns.alidns.com/dns-query
@@ -85563,6 +85568,7 @@
 *.sxyj.net = server:https://dns.alidns.com/dns-query
 *.sxyqgs.asia = server:https://dns.alidns.com/dns-query
 *.sxyyc.net = server:https://dns.alidns.com/dns-query
+*.sxyygh.com = server:https://dns.alidns.com/dns-query
 *.sxzhaobiao.com = server:https://dns.alidns.com/dns-query
 *.sxzhongfei.com = server:https://dns.alidns.com/dns-query
 *.sxzhyy.com = server:https://dns.alidns.com/dns-query
@@ -98085,6 +98091,7 @@
 *.xhscdn.net = server:https://dns.alidns.com/dns-query
 *.xhsd.com = server:https://dns.alidns.com/dns-query
 *.xhsd.net = server:https://dns.alidns.com/dns-query
+*.xhsdzd.com = server:https://dns.alidns.com/dns-query
 *.xhsf.com = server:https://dns.alidns.com/dns-query
 *.xhslink.com = server:https://dns.alidns.com/dns-query
 *.xhslw.com = server:https://dns.alidns.com/dns-query
