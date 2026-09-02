@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-01 07:48:16Z
+#!updated=2026-09-02 07:05:05Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -470,7 +470,6 @@
 *.043j8118366.xin = server:https://dns.alidns.com/dns-query
 *.0452e.com = server:https://dns.alidns.com/dns-query
 *.0453.com = server:https://dns.alidns.com/dns-query
-*.0453bc39456389ff.com = server:https://dns.alidns.com/dns-query
 *.0454.cc = server:https://dns.alidns.com/dns-query
 *.0455tv.com = server:https://dns.alidns.com/dns-query
 *.0455zd.com = server:https://dns.alidns.com/dns-query
@@ -754,7 +753,6 @@
 *.0755cts.com = server:https://dns.alidns.com/dns-query
 *.0755fm.com = server:https://dns.alidns.com/dns-query
 *.0755hao.com = server:https://dns.alidns.com/dns-query
-*.0755haoyu.com = server:https://dns.alidns.com/dns-query
 *.0755hj.com = server:https://dns.alidns.com/dns-query
 *.0755hz.com = server:https://dns.alidns.com/dns-query
 *.0755jz.net = server:https://dns.alidns.com/dns-query
@@ -950,7 +948,6 @@
 *.0a32mt201.xin = server:https://dns.alidns.com/dns-query
 *.0a64qa16273.xin = server:https://dns.alidns.com/dns-query
 *.0a6ri001390.xin = server:https://dns.alidns.com/dns-query
-*.0a8a112e8bb5045e.com = server:https://dns.alidns.com/dns-query
 *.0ag8kg01470.xin = server:https://dns.alidns.com/dns-query
 *.0ape4t08268.xin = server:https://dns.alidns.com/dns-query
 *.0axoa626262.xin = server:https://dns.alidns.com/dns-query
@@ -958,7 +955,6 @@
 *.0b4xq91061.xin = server:https://dns.alidns.com/dns-query
 *.0b6e0659811021.beer = server:https://dns.alidns.com/dns-query
 *.0b8ky116130.xin = server:https://dns.alidns.com/dns-query
-*.0bb261a6a46d766a.com = server:https://dns.alidns.com/dns-query
 *.0bb875c361022.beer = server:https://dns.alidns.com/dns-query
 *.0bbd0e535194e7f7.com = server:https://dns.alidns.com/dns-query
 *.0bdfe52341114.beer = server:https://dns.alidns.com/dns-query
@@ -1000,7 +996,6 @@
 *.0e7o6216306.xin = server:https://dns.alidns.com/dns-query
 *.0e91wut86c.com = server:https://dns.alidns.com/dns-query
 *.0easy.com = server:https://dns.alidns.com/dns-query
-*.0ecff3e99dce5b33.com = server:https://dns.alidns.com/dns-query
 *.0ee18d4c192243b3.com = server:https://dns.alidns.com/dns-query
 *.0efef58c41014.beer = server:https://dns.alidns.com/dns-query
 *.0egh661666.xin = server:https://dns.alidns.com/dns-query
@@ -1755,7 +1750,6 @@
 *.13xiaoshuo.com = server:https://dns.alidns.com/dns-query
 *.13yx.com = server:https://dns.alidns.com/dns-query
 *.140414.com = server:https://dns.alidns.com/dns-query
-*.1404c4ce1d63a0d7.com = server:https://dns.alidns.com/dns-query
 *.1415926.com = server:https://dns.alidns.com/dns-query
 *.1415926.mobi = server:https://dns.alidns.com/dns-query
 *.141799c86c1ba267.com = server:https://dns.alidns.com/dns-query
@@ -2110,7 +2104,6 @@
 *.17bt.com = server:https://dns.alidns.com/dns-query
 *.17byh.com = server:https://dns.alidns.com/dns-query
 *.17c13ae4a36b8862.com = server:https://dns.alidns.com/dns-query
-*.17c8d205dbcbc534.com = server:https://dns.alidns.com/dns-query
 *.17cdn.com = server:https://dns.alidns.com/dns-query
 *.17ce.com = server:https://dns.alidns.com/dns-query
 *.17chacha.com = server:https://dns.alidns.com/dns-query
@@ -2721,7 +2714,6 @@
 *.2080ly.com = server:https://dns.alidns.com/dns-query
 *.2093hd.com = server:https://dns.alidns.com/dns-query
 *.2099xs.com = server:https://dns.alidns.com/dns-query
-*.20e2554096acf2c6.com = server:https://dns.alidns.com/dns-query
 *.20fl.com = server:https://dns.alidns.com/dns-query
 *.20ju.com = server:https://dns.alidns.com/dns-query
 *.20kf.com = server:https://dns.alidns.com/dns-query
@@ -3054,6 +3046,7 @@
 *.254game.com = server:https://dns.alidns.com/dns-query
 *.2551aa29811031.beer = server:https://dns.alidns.com/dns-query
 *.255616.com = server:https://dns.alidns.com/dns-query
+*.25565.net = server:https://dns.alidns.com/dns-query
 *.2559e5f081017.beer = server:https://dns.alidns.com/dns-query
 *.256app.com = server:https://dns.alidns.com/dns-query
 *.256cha.com = server:https://dns.alidns.com/dns-query
@@ -3066,7 +3059,6 @@
 *.258fuwu.com = server:https://dns.alidns.com/dns-query
 *.258jrs.com = server:https://dns.alidns.com/dns-query
 *.258sd.com = server:https://dns.alidns.com/dns-query
-*.258weishi.com = server:https://dns.alidns.com/dns-query
 *.25992.com = server:https://dns.alidns.com/dns-query
 *.25az.com = server:https://dns.alidns.com/dns-query
 *.25dddaa6f10261.beer = server:https://dns.alidns.com/dns-query
@@ -3156,7 +3148,6 @@
 *.279tt.com = server:https://dns.alidns.com/dns-query
 *.27al.com = server:https://dns.alidns.com/dns-query
 *.27cat.com = server:https://dns.alidns.com/dns-query
-*.27d7c9e9b3a34696.com = server:https://dns.alidns.com/dns-query
 *.27daili.com = server:https://dns.alidns.com/dns-query
 *.27l.com = server:https://dns.alidns.com/dns-query
 *.27tj.com = server:https://dns.alidns.com/dns-query
@@ -3622,7 +3613,6 @@
 *.3419e2cbf10261.beer = server:https://dns.alidns.com/dns-query
 *.341d88b04156e9d3.com = server:https://dns.alidns.com/dns-query
 *.342200.com = server:https://dns.alidns.com/dns-query
-*.342jinbo.com = server:https://dns.alidns.com/dns-query
 *.34347.com = server:https://dns.alidns.com/dns-query
 *.343480.com = server:https://dns.alidns.com/dns-query
 *.345123.xyz = server:https://dns.alidns.com/dns-query
@@ -3805,6 +3795,7 @@
 *.360qyaq.com = server:https://dns.alidns.com/dns-query
 *.360safe.com = server:https://dns.alidns.com/dns-query
 *.360safedns.com = server:https://dns.alidns.com/dns-query
+*.360scdn.com = server:https://dns.alidns.com/dns-query
 *.360shouji.com = server:https://dns.alidns.com/dns-query
 *.360shouzhuan.com = server:https://dns.alidns.com/dns-query
 *.360shuke.com = server:https://dns.alidns.com/dns-query
@@ -3970,7 +3961,6 @@
 *.365vip.com = server:https://dns.alidns.com/dns-query
 *.365world.com = server:https://dns.alidns.com/dns-query
 *.365xiazai.com = server:https://dns.alidns.com/dns-query
-*.365xs.la = server:https://dns.alidns.com/dns-query
 *.365xuet.com = server:https://dns.alidns.com/dns-query
 *.365yarn.com = server:https://dns.alidns.com/dns-query
 *.365yg.com = server:https://dns.alidns.com/dns-query
@@ -3981,7 +3971,6 @@
 *.365zhuanrang.com = server:https://dns.alidns.com/dns-query
 *.365zmw.com = server:https://dns.alidns.com/dns-query
 *.365zsw.net = server:https://dns.alidns.com/dns-query
-*.3660bf60ab32baab.com = server:https://dns.alidns.com/dns-query
 *.36612345.com = server:https://dns.alidns.com/dns-query
 *.3663.com = server:https://dns.alidns.com/dns-query
 *.366300.com = server:https://dns.alidns.com/dns-query
@@ -4159,7 +4148,6 @@
 *.39amjs.com = server:https://dns.alidns.com/dns-query
 *.39ask.net = server:https://dns.alidns.com/dns-query
 *.39b86269e11031.beer = server:https://dns.alidns.com/dns-query
-*.39b8fe8f4c6f9dee.com = server:https://dns.alidns.com/dns-query
 *.39bfe802d10292.beer = server:https://dns.alidns.com/dns-query
 *.39center.com = server:https://dns.alidns.com/dns-query
 *.39clean.com = server:https://dns.alidns.com/dns-query
@@ -4208,7 +4196,6 @@
 *.3c5a7b25910281.beer = server:https://dns.alidns.com/dns-query
 *.3c6a1a5d01015.beer = server:https://dns.alidns.com/dns-query
 *.3c9035c3bd9e7599.com = server:https://dns.alidns.com/dns-query
-*.3cb106206b814b15.com = server:https://dns.alidns.com/dns-query
 *.3cf6c871511032.beer = server:https://dns.alidns.com/dns-query
 *.3chongmen.com = server:https://dns.alidns.com/dns-query
 *.3conline.com = server:https://dns.alidns.com/dns-query
@@ -4518,7 +4505,6 @@
 *.4080517.com = server:https://dns.alidns.com/dns-query
 *.408399.com = server:https://dns.alidns.com/dns-query
 *.408399.net = server:https://dns.alidns.com/dns-query
-*.4087b09ee4632bb5.com = server:https://dns.alidns.com/dns-query
 *.408cf42720d8be86.com = server:https://dns.alidns.com/dns-query
 *.408ec542b10281.beer = server:https://dns.alidns.com/dns-query
 *.409a1957110311.beer = server:https://dns.alidns.com/dns-query
@@ -4692,7 +4678,6 @@
 *.45yx.com = server:https://dns.alidns.com/dns-query
 *.461000.net = server:https://dns.alidns.com/dns-query
 *.462.com = server:https://dns.alidns.com/dns-query
-*.46245fb7d43c13a3.com = server:https://dns.alidns.com/dns-query
 *.46412.com = server:https://dns.alidns.com/dns-query
 *.46644.com = server:https://dns.alidns.com/dns-query
 *.46721.org = server:https://dns.alidns.com/dns-query
@@ -4832,7 +4817,6 @@
 *.4f0b987b410311.beer = server:https://dns.alidns.com/dns-query
 *.4f411973f14e0f10.com = server:https://dns.alidns.com/dns-query
 *.4f61.com = server:https://dns.alidns.com/dns-query
-*.4f68340f5b6c21a9.com = server:https://dns.alidns.com/dns-query
 *.4f89.com = server:https://dns.alidns.com/dns-query
 *.4f9bf1e673931484.com = server:https://dns.alidns.com/dns-query
 *.4fang.net = server:https://dns.alidns.com/dns-query
@@ -4924,7 +4908,6 @@
 *.503118.com = server:https://dns.alidns.com/dns-query
 *.50331.net = server:https://dns.alidns.com/dns-query
 *.5033333.com = server:https://dns.alidns.com/dns-query
-*.503b2f379abaf979.com = server:https://dns.alidns.com/dns-query
 *.505035.com = server:https://dns.alidns.com/dns-query
 *.5054399.com = server:https://dns.alidns.com/dns-query
 *.5054399.net = server:https://dns.alidns.com/dns-query
@@ -5187,7 +5170,6 @@
 *.51feitu.com = server:https://dns.alidns.com/dns-query
 *.51feiyu.com = server:https://dns.alidns.com/dns-query
 *.51fiber.net = server:https://dns.alidns.com/dns-query
-*.51finace.com = server:https://dns.alidns.com/dns-query
 *.51findwork.com = server:https://dns.alidns.com/dns-query
 *.51fl.com = server:https://dns.alidns.com/dns-query
 *.51fpg.com = server:https://dns.alidns.com/dns-query
@@ -5931,7 +5913,6 @@
 *.537300.com = server:https://dns.alidns.com/dns-query
 *.53797.vip = server:https://dns.alidns.com/dns-query
 *.5385s.com = server:https://dns.alidns.com/dns-query
-*.538a9b8b890bff34.com = server:https://dns.alidns.com/dns-query
 *.53920.net = server:https://dns.alidns.com/dns-query
 *.539831.vip = server:https://dns.alidns.com/dns-query
 *.53af08566e5d84ef.com = server:https://dns.alidns.com/dns-query
@@ -5968,7 +5949,6 @@
 *.54268.com = server:https://dns.alidns.com/dns-query
 *.5433.com = server:https://dns.alidns.com/dns-query
 *.54391.com = server:https://dns.alidns.com/dns-query
-*.54406c82bf7d5705.com = server:https://dns.alidns.com/dns-query
 *.5442.com = server:https://dns.alidns.com/dns-query
 *.544521.xyz = server:https://dns.alidns.com/dns-query
 *.544e5adac11012.beer = server:https://dns.alidns.com/dns-query
@@ -6349,6 +6329,7 @@
 *.5945i.com = server:https://dns.alidns.com/dns-query
 *.595.bet = server:https://dns.alidns.com/dns-query
 *.595.cc = server:https://dns.alidns.com/dns-query
+*.5950380.cc = server:https://dns.alidns.com/dns-query
 *.59519.com = server:https://dns.alidns.com/dns-query
 *.595818.com = server:https://dns.alidns.com/dns-query
 *.5959.vip = server:https://dns.alidns.com/dns-query
@@ -6377,7 +6358,6 @@
 *.59dead1ce10301.beer = server:https://dns.alidns.com/dns-query
 *.59dun.com = server:https://dns.alidns.com/dns-query
 *.59f086f4910311.beer = server:https://dns.alidns.com/dns-query
-*.59f35373bf3f8e7d.com = server:https://dns.alidns.com/dns-query
 *.59ff599661017.beer = server:https://dns.alidns.com/dns-query
 *.59hi.com = server:https://dns.alidns.com/dns-query
 *.59iedu.com = server:https://dns.alidns.com/dns-query
@@ -6397,7 +6377,6 @@
 *.5a828d12510272.beer = server:https://dns.alidns.com/dns-query
 *.5a8878b99c8f9160.com = server:https://dns.alidns.com/dns-query
 *.5a8a3d1d111021.beer = server:https://dns.alidns.com/dns-query
-*.5a9bf3726d2b09fa.com = server:https://dns.alidns.com/dns-query
 *.5aa212657a354b3e.com = server:https://dns.alidns.com/dns-query
 *.5aaa.com = server:https://dns.alidns.com/dns-query
 *.5acbd.com = server:https://dns.alidns.com/dns-query
@@ -6466,7 +6445,6 @@
 *.5f36b4f39ba574b7.com = server:https://dns.alidns.com/dns-query
 *.5f52903c110251.beer = server:https://dns.alidns.com/dns-query
 *.5f69826526db4f44.com = server:https://dns.alidns.com/dns-query
-*.5f9e6b1603f69b9b.com = server:https://dns.alidns.com/dns-query
 *.5fa26ed6d1024.beer = server:https://dns.alidns.com/dns-query
 *.5fen.com = server:https://dns.alidns.com/dns-query
 *.5fun.com = server:https://dns.alidns.com/dns-query
@@ -6769,7 +6747,6 @@
 *.632news.com = server:https://dns.alidns.com/dns-query
 *.6333.tv = server:https://dns.alidns.com/dns-query
 *.6334x.com = server:https://dns.alidns.com/dns-query
-*.633586c05c8f4543.com = server:https://dns.alidns.com/dns-query
 *.634.ag = server:https://dns.alidns.com/dns-query
 *.634d.com = server:https://dns.alidns.com/dns-query
 *.634image.com = server:https://dns.alidns.com/dns-query
@@ -7114,7 +7091,6 @@
 *.6b3cfa277bae3b4b.com = server:https://dns.alidns.com/dns-query
 *.6bac9d15d10271.beer = server:https://dns.alidns.com/dns-query
 *.6bdns.com = server:https://dns.alidns.com/dns-query
-*.6c0f63385ed13b89.com = server:https://dns.alidns.com/dns-query
 *.6c6c.com = server:https://dns.alidns.com/dns-query
 *.6c7ccba3e11031.beer = server:https://dns.alidns.com/dns-query
 *.6cit.com = server:https://dns.alidns.com/dns-query
@@ -7142,7 +7118,6 @@
 *.6ef102d0210261.beer = server:https://dns.alidns.com/dns-query
 *.6f25df38a10291.beer = server:https://dns.alidns.com/dns-query
 *.6f7b51b741014.beer = server:https://dns.alidns.com/dns-query
-*.6f8b82f9fbb439db.com = server:https://dns.alidns.com/dns-query
 *.6fast.com = server:https://dns.alidns.com/dns-query
 *.6fcsj.com = server:https://dns.alidns.com/dns-query
 *.6fe7c9d291017.beer = server:https://dns.alidns.com/dns-query
@@ -7994,7 +7969,6 @@
 *.8295099d311031.beer = server:https://dns.alidns.com/dns-query
 *.8295dc6e7e797638.com = server:https://dns.alidns.com/dns-query
 *.82987977.com = server:https://dns.alidns.com/dns-query
-*.829e30d07853f4fd.com = server:https://dns.alidns.com/dns-query
 *.82d5d0e4f10291.beer = server:https://dns.alidns.com/dns-query
 *.82e0dd98d1edbbb1.com = server:https://dns.alidns.com/dns-query
 *.82flex.com = server:https://dns.alidns.com/dns-query
@@ -8099,7 +8073,6 @@
 *.86933.com = server:https://dns.alidns.com/dns-query
 *.869d.com = server:https://dns.alidns.com/dns-query
 *.869v.com = server:https://dns.alidns.com/dns-query
-*.86a92644807597fa.com = server:https://dns.alidns.com/dns-query
 *.86amsdy.com = server:https://dns.alidns.com/dns-query
 *.86bdada6e1019.beer = server:https://dns.alidns.com/dns-query
 *.86bus.com = server:https://dns.alidns.com/dns-query
@@ -8159,7 +8132,6 @@
 *.8769d53.com = server:https://dns.alidns.com/dns-query
 *.876dns.com = server:https://dns.alidns.com/dns-query
 *.8770000.com = server:https://dns.alidns.com/dns-query
-*.87739b0fc18fe40a.com = server:https://dns.alidns.com/dns-query
 *.8775.com = server:https://dns.alidns.com/dns-query
 *.87753.net = server:https://dns.alidns.com/dns-query
 *.877771.xyz = server:https://dns.alidns.com/dns-query
@@ -8173,7 +8145,6 @@
 *.8799.com = server:https://dns.alidns.com/dns-query
 *.87a37933611021.beer = server:https://dns.alidns.com/dns-query
 *.87b041a2019314d7.com = server:https://dns.alidns.com/dns-query
-*.87bc16a2fc6c4036.com = server:https://dns.alidns.com/dns-query
 *.87e1ed649c57575b.com = server:https://dns.alidns.com/dns-query
 *.87g.com = server:https://dns.alidns.com/dns-query
 *.87money.com = server:https://dns.alidns.com/dns-query
@@ -8699,7 +8670,6 @@
 *.91wujia.com = server:https://dns.alidns.com/dns-query
 *.91wutong.com = server:https://dns.alidns.com/dns-query
 *.91wzg.com = server:https://dns.alidns.com/dns-query
-*.91x.org = server:https://dns.alidns.com/dns-query
 *.91xch.com = server:https://dns.alidns.com/dns-query
 *.91xcm.com = server:https://dns.alidns.com/dns-query
 *.91xfw.com = server:https://dns.alidns.com/dns-query
@@ -8852,7 +8822,6 @@
 *.946000.com = server:https://dns.alidns.com/dns-query
 *.9466.com = server:https://dns.alidns.com/dns-query
 *.947fd9a0011042.beer = server:https://dns.alidns.com/dns-query
-*.94831.com = server:https://dns.alidns.com/dns-query
 *.9486483.com = server:https://dns.alidns.com/dns-query
 *.948hj.com = server:https://dns.alidns.com/dns-query
 *.949047l1jr.com = server:https://dns.alidns.com/dns-query
@@ -9069,7 +9038,6 @@
 *.97973399.com = server:https://dns.alidns.com/dns-query
 *.97975508.com = server:https://dns.alidns.com/dns-query
 *.97976608.com = server:https://dns.alidns.com/dns-query
-*.9797cp2.com = server:https://dns.alidns.com/dns-query
 *.9797ly.com = server:https://dns.alidns.com/dns-query
 *.9799251212480.icu = server:https://dns.alidns.com/dns-query
 *.97a12bb360b26d1c.com = server:https://dns.alidns.com/dns-query
@@ -9250,7 +9218,6 @@
 *.99cha.com = server:https://dns.alidns.com/dns-query
 *.99cloud.net = server:https://dns.alidns.com/dns-query
 *.99corley.com = server:https://dns.alidns.com/dns-query
-*.99count.com = server:https://dns.alidns.com/dns-query
 *.99danji.com = server:https://dns.alidns.com/dns-query
 *.99dingding.com = server:https://dns.alidns.com/dns-query
 *.99down.com = server:https://dns.alidns.com/dns-query
@@ -9567,13 +9534,13 @@
 *.a75d755806b1095d.com = server:https://dns.alidns.com/dns-query
 *.a7647e3f151b4a5d.com = server:https://dns.alidns.com/dns-query
 *.a766.com = server:https://dns.alidns.com/dns-query
+*.a777998.com = server:https://dns.alidns.com/dns-query
 *.a789.org = server:https://dns.alidns.com/dns-query
 *.a7a13fde51022.beer = server:https://dns.alidns.com/dns-query
 *.a7c6e291d10292.beer = server:https://dns.alidns.com/dns-query
 *.a7d4bd3ce10281.beer = server:https://dns.alidns.com/dns-query
 *.a7dcb6d9011032.beer = server:https://dns.alidns.com/dns-query
 *.a8.com = server:https://dns.alidns.com/dns-query
-*.a83c8524b88a06ae.com = server:https://dns.alidns.com/dns-query
 *.a87807b4811031.beer = server:https://dns.alidns.com/dns-query
 *.a87f34a60cf36893.com = server:https://dns.alidns.com/dns-query
 *.a88b9f894719c3d8.com = server:https://dns.alidns.com/dns-query
@@ -9758,7 +9725,6 @@
 *.ac3ba49731016.beer = server:https://dns.alidns.com/dns-query
 *.ac57.com = server:https://dns.alidns.com/dns-query
 *.ac6891953e265977.com = server:https://dns.alidns.com/dns-query
-*.ac78416978de6213.com = server:https://dns.alidns.com/dns-query
 *.acabridge.net = server:https://dns.alidns.com/dns-query
 *.acachina.com = server:https://dns.alidns.com/dns-query
 *.academygkusa.com = server:https://dns.alidns.com/dns-query
@@ -10110,7 +10076,6 @@
 *.ae-inbr.xin = server:https://dns.alidns.com/dns-query
 *.ae0f9d6cf11021.beer = server:https://dns.alidns.com/dns-query
 *.ae1234.com = server:https://dns.alidns.com/dns-query
-*.ae224e62eb93c42a.com = server:https://dns.alidns.com/dns-query
 *.ae256.com = server:https://dns.alidns.com/dns-query
 *.ae3a6d6e09359c15.com = server:https://dns.alidns.com/dns-query
 *.ae58c58c051aacd9.com = server:https://dns.alidns.com/dns-query
@@ -12329,7 +12294,6 @@
 *.api-m.com = server:https://dns.alidns.com/dns-query
 *.api-vod-qcloud.com = server:https://dns.alidns.com/dns-query
 *.api.anythinktech.com = server:https://dns.alidns.com/dns-query
-*.api.blipsandchitz.me = server:https://dns.alidns.com/dns-query
 *.api.crisp.chat = server:https://dns.alidns.com/dns-query
 *.api.so = server:https://dns.alidns.com/dns-query
 *.apiairasia.com = server:https://dns.alidns.com/dns-query
@@ -12610,7 +12574,6 @@
 *.arextecn.com = server:https://dns.alidns.com/dns-query
 *.argylehotels.com = server:https://dns.alidns.com/dns-query
 *.arhoo.com = server:https://dns.alidns.com/dns-query
-*.ariacraft.net = server:https://dns.alidns.com/dns-query
 *.aridge.com = server:https://dns.alidns.com/dns-query
 *.arielcosmetic.com = server:https://dns.alidns.com/dns-query
 *.arin-elec.com = server:https://dns.alidns.com/dns-query
@@ -13463,6 +13426,7 @@
 *.azchcdns.com = server:https://dns.alidns.com/dns-query
 *.azetac.com = server:https://dns.alidns.com/dns-query
 *.azf010.com = server:https://dns.alidns.com/dns-query
+*.azhai.de = server:https://dns.alidns.com/dns-query
 *.azhimalayanvh.com = server:https://dns.alidns.com/dns-query
 *.azhituo.com = server:https://dns.alidns.com/dns-query
 *.azhubaby.com = server:https://dns.alidns.com/dns-query
@@ -13502,7 +13466,6 @@
 *.b-raymedia.com = server:https://dns.alidns.com/dns-query
 *.b.biz = server:https://dns.alidns.com/dns-query
 *.b01.net = server:https://dns.alidns.com/dns-query
-*.b02f0d7f3745ba7c.com = server:https://dns.alidns.com/dns-query
 *.b041e427810281.beer = server:https://dns.alidns.com/dns-query
 *.b07cceaf011012.beer = server:https://dns.alidns.com/dns-query
 *.b08.com = server:https://dns.alidns.com/dns-query
@@ -13520,7 +13483,6 @@
 *.b230756fa1114.beer = server:https://dns.alidns.com/dns-query
 *.b230ed9d61010.beer = server:https://dns.alidns.com/dns-query
 *.b262a49751023.beer = server:https://dns.alidns.com/dns-query
-*.b27ceaa1053.skin = server:https://dns.alidns.com/dns-query
 *.b287f400810291.beer = server:https://dns.alidns.com/dns-query
 *.b29f45a5b10271.beer = server:https://dns.alidns.com/dns-query
 *.b29gj.com = server:https://dns.alidns.com/dns-query
@@ -13586,7 +13548,6 @@
 *.b7e314d4810241.beer = server:https://dns.alidns.com/dns-query
 *.b7eeeb26810241.beer = server:https://dns.alidns.com/dns-query
 *.b7f3192.com = server:https://dns.alidns.com/dns-query
-*.b812824ed173a8c0.com = server:https://dns.alidns.com/dns-query
 *.b83d11444463a621.com = server:https://dns.alidns.com/dns-query
 *.b883481331023.beer = server:https://dns.alidns.com/dns-query
 *.b8e4d120a10271.beer = server:https://dns.alidns.com/dns-query
@@ -13601,7 +13562,6 @@
 *.b9bdc7d62dfb0e5e.com = server:https://dns.alidns.com/dns-query
 *.b9noqayb1s.work = server:https://dns.alidns.com/dns-query
 *.ba-hospital.com = server:https://dns.alidns.com/dns-query
-*.ba08e2f96f675d22.com = server:https://dns.alidns.com/dns-query
 *.ba1400.com = server:https://dns.alidns.com/dns-query
 *.ba20db47708bc51f.com = server:https://dns.alidns.com/dns-query
 *.ba7jcm.live = server:https://dns.alidns.com/dns-query
@@ -14736,7 +14696,6 @@
 *.bdwater.com = server:https://dns.alidns.com/dns-query
 *.bdwhyscjh.com = server:https://dns.alidns.com/dns-query
 *.bdwkxz.com = server:https://dns.alidns.com/dns-query
-*.bdwm.net = server:https://dns.alidns.com/dns-query
 *.bdwork.com = server:https://dns.alidns.com/dns-query
 *.bdxc.com = server:https://dns.alidns.com/dns-query
 *.bdxdgs.com = server:https://dns.alidns.com/dns-query
@@ -14763,7 +14722,6 @@
 *.be1775.com = server:https://dns.alidns.com/dns-query
 *.be1dbb20578c1b79.com = server:https://dns.alidns.com/dns-query
 *.be20e436e111e1f7.com = server:https://dns.alidns.com/dns-query
-*.be30d71aea370488.com = server:https://dns.alidns.com/dns-query
 *.be7076f2b2ff2953.com = server:https://dns.alidns.com/dns-query
 *.be79d8d36f962bd6.com = server:https://dns.alidns.com/dns-query
 *.be84433f5ce02a66.com = server:https://dns.alidns.com/dns-query
@@ -14802,6 +14760,7 @@
 *.becukwai.com = server:https://dns.alidns.com/dns-query
 *.beduu.com = server:https://dns.alidns.com/dns-query
 *.bee-core.com = server:https://dns.alidns.com/dns-query
+*.bee-link.com = server:https://dns.alidns.com/dns-query
 *.bee-net.com = server:https://dns.alidns.com/dns-query
 *.bee-station.com = server:https://dns.alidns.com/dns-query
 *.bee3d.com = server:https://dns.alidns.com/dns-query
@@ -15677,6 +15636,7 @@
 *.billwang.net = server:https://dns.alidns.com/dns-query
 *.bilnn.com = server:https://dns.alidns.com/dns-query
 *.bim-times.com = server:https://dns.alidns.com/dns-query
+*.bim.fashion = server:https://dns.alidns.com/dns-query
 *.bimant.com = server:https://dns.alidns.com/dns-query
 *.bimawen.com = server:https://dns.alidns.com/dns-query
 *.bimface.com = server:https://dns.alidns.com/dns-query
@@ -16648,6 +16608,7 @@
 *.blingabc.com = server:https://dns.alidns.com/dns-query
 *.blinghour.com = server:https://dns.alidns.com/dns-query
 *.blingoffice.com = server:https://dns.alidns.com/dns-query
+*.blipsandchitz.me = server:https://dns.alidns.com/dns-query
 *.blissmall.net = server:https://dns.alidns.com/dns-query
 *.blizzardcn.com = server:https://dns.alidns.com/dns-query
 *.blju.com = server:https://dns.alidns.com/dns-query
@@ -18082,7 +18043,6 @@
 *.c4008.com = server:https://dns.alidns.com/dns-query
 *.c400c.cc = server:https://dns.alidns.com/dns-query
 *.c402f6df11021.beer = server:https://dns.alidns.com/dns-query
-*.c4190cb63e65819b.com = server:https://dns.alidns.com/dns-query
 *.c41b1d28472ea27c.com = server:https://dns.alidns.com/dns-query
 *.c437dfd45f96b488.com = server:https://dns.alidns.com/dns-query
 *.c43c3cb111011.beer = server:https://dns.alidns.com/dns-query
@@ -18112,7 +18072,6 @@
 *.c5a13eec21010.beer = server:https://dns.alidns.com/dns-query
 *.c5a7e584ed460dcd.com = server:https://dns.alidns.com/dns-query
 *.c5b27c7c01019.beer = server:https://dns.alidns.com/dns-query
-*.c5b3c3db298ea985.com = server:https://dns.alidns.com/dns-query
 *.c5b6bpoq7q.world = server:https://dns.alidns.com/dns-query
 *.c5bf2b35337761f4.com = server:https://dns.alidns.com/dns-query
 *.c5game.com = server:https://dns.alidns.com/dns-query
@@ -18804,7 +18763,6 @@
 *.cbeeexpo.com = server:https://dns.alidns.com/dns-query
 *.cbes21.com = server:https://dns.alidns.com/dns-query
 *.cbex.com = server:https://dns.alidns.com/dns-query
-*.cbf92cea38c259ee.com = server:https://dns.alidns.com/dns-query
 *.cbfau.com = server:https://dns.alidns.com/dns-query
 *.cbgcloud.com = server:https://dns.alidns.com/dns-query
 *.cbhb.biz = server:https://dns.alidns.com/dns-query
@@ -18848,7 +18806,6 @@
 *.cc-q.com = server:https://dns.alidns.com/dns-query
 *.cc-uavia.com = server:https://dns.alidns.com/dns-query
 *.cc.co = server:https://dns.alidns.com/dns-query
-*.cc06040d408f65b1.com = server:https://dns.alidns.com/dns-query
 *.cc0808.com = server:https://dns.alidns.com/dns-query
 *.cc11bh.com = server:https://dns.alidns.com/dns-query
 *.cc39ute.shop = server:https://dns.alidns.com/dns-query
@@ -18894,6 +18851,7 @@
 *.ccbxt.com = server:https://dns.alidns.com/dns-query
 *.ccc-ch.com = server:https://dns.alidns.com/dns-query
 *.ccc-chn.com = server:https://dns.alidns.com/dns-query
+*.cccbn.com = server:https://dns.alidns.com/dns-query
 *.cccbs.net = server:https://dns.alidns.com/dns-query
 *.cccc-capital.com = server:https://dns.alidns.com/dns-query
 *.cccc-sdc.com = server:https://dns.alidns.com/dns-query
@@ -19427,7 +19385,6 @@
 *.cdn90.com = server:https://dns.alidns.com/dns-query
 *.cdn90.net = server:https://dns.alidns.com/dns-query
 *.cdn90.org = server:https://dns.alidns.com/dns-query
-*.cdn99.com = server:https://dns.alidns.com/dns-query
 *.cdnb.net = server:https://dns.alidns.com/dns-query
 *.cdnbbb.net = server:https://dns.alidns.com/dns-query
 *.cdnbuild.com = server:https://dns.alidns.com/dns-query
@@ -22382,6 +22339,7 @@
 *.chxq.org = server:https://dns.alidns.com/dns-query
 *.chxyl.com = server:https://dns.alidns.com/dns-query
 *.chxyq.com = server:https://dns.alidns.com/dns-query
+*.chysan.com = server:https://dns.alidns.com/dns-query
 *.chysoft.net = server:https://dns.alidns.com/dns-query
 *.chyxx.com = server:https://dns.alidns.com/dns-query
 *.chyyyygl.com = server:https://dns.alidns.com/dns-query
@@ -24599,7 +24557,6 @@
 *.cooioo.com = server:https://dns.alidns.com/dns-query
 *.cookcai.com = server:https://dns.alidns.com/dns-query
 *.cookicut.com = server:https://dns.alidns.com/dns-query
-*.cookie4you.com = server:https://dns.alidns.com/dns-query
 *.cookiezhong.com = server:https://dns.alidns.com/dns-query
 *.cool-admin.com = server:https://dns.alidns.com/dns-query
 *.cool-de.com = server:https://dns.alidns.com/dns-query
@@ -24840,7 +24797,6 @@
 *.cppfoto.com = server:https://dns.alidns.com/dns-query
 *.cpph.com = server:https://dns.alidns.com/dns-query
 *.cpplay.com = server:https://dns.alidns.com/dns-query
-*.cppoly.com = server:https://dns.alidns.com/dns-query
 *.cpppf.org = server:https://dns.alidns.com/dns-query
 *.cpqrmyy.com = server:https://dns.alidns.com/dns-query
 *.cproton.com = server:https://dns.alidns.com/dns-query
@@ -25173,7 +25129,6 @@
 *.cqkytq.com = server:https://dns.alidns.com/dns-query
 *.cqlaifu.com = server:https://dns.alidns.com/dns-query
 *.cqlandtower.com = server:https://dns.alidns.com/dns-query
-*.cqlba.com = server:https://dns.alidns.com/dns-query
 *.cqld.com = server:https://dns.alidns.com/dns-query
 *.cqlfn.com = server:https://dns.alidns.com/dns-query
 *.cqlhyy.com = server:https://dns.alidns.com/dns-query
@@ -25582,7 +25537,6 @@
 *.createpoint.qti.qualcomm.com = server:https://dns.alidns.com/dns-query
 *.createw.com = server:https://dns.alidns.com/dns-query
 *.createwf.com = server:https://dns.alidns.com/dns-query
-*.creati5.com = server:https://dns.alidns.com/dns-query
 *.creation-bj.com = server:https://dns.alidns.com/dns-query
 *.creationventure.com = server:https://dns.alidns.com/dns-query
 *.creative-micro.com = server:https://dns.alidns.com/dns-query
@@ -26786,7 +26740,6 @@
 *.d1y.cc = server:https://dns.alidns.com/dns-query
 *.d20d0896ac7f79d3.com = server:https://dns.alidns.com/dns-query
 *.d22a.com = server:https://dns.alidns.com/dns-query
-*.d22fa4e66e2dbda2.com = server:https://dns.alidns.com/dns-query
 *.d23c41a0511031.beer = server:https://dns.alidns.com/dns-query
 *.d27c2e00d10251.beer = server:https://dns.alidns.com/dns-query
 *.d2940a1d3924e37f.com = server:https://dns.alidns.com/dns-query
@@ -26842,7 +26795,6 @@
 *.d90eeacb0ed722f9.com = server:https://dns.alidns.com/dns-query
 *.d920c164caf0ebba.com = server:https://dns.alidns.com/dns-query
 *.d959fb95dd5cc433.com = server:https://dns.alidns.com/dns-query
-*.d9741b1859dfcfee.com = server:https://dns.alidns.com/dns-query
 *.d99net.net = server:https://dns.alidns.com/dns-query
 *.d9b5cc7f82ccfc18.com = server:https://dns.alidns.com/dns-query
 *.d9j8.com = server:https://dns.alidns.com/dns-query
@@ -29296,7 +29248,6 @@
 *.dmzgame.com = server:https://dns.alidns.com/dns-query
 *.dmzj.com = server:https://dns.alidns.com/dns-query
 *.dmzlcn.com = server:https://dns.alidns.com/dns-query
-*.dmzx.com = server:https://dns.alidns.com/dns-query
 *.dmzzbjb.net = server:https://dns.alidns.com/dns-query
 *.dmzzkz.com = server:https://dns.alidns.com/dns-query
 *.dn.com = server:https://dns.alidns.com/dns-query
@@ -30494,7 +30445,6 @@
 *.duomob.com = server:https://dns.alidns.com/dns-query
 *.duomoyu.com = server:https://dns.alidns.com/dns-query
 *.duomu.hk = server:https://dns.alidns.com/dns-query
-*.duomu.tv = server:https://dns.alidns.com/dns-query
 *.duopao.com = server:https://dns.alidns.com/dns-query
 *.duopingka.com = server:https://dns.alidns.com/dns-query
 *.duoqu.com = server:https://dns.alidns.com/dns-query
@@ -30867,6 +30817,7 @@
 *.dzllzg.com = server:https://dns.alidns.com/dns-query
 *.dzmachines.com = server:https://dns.alidns.com/dns-query
 *.dzmhospital.com = server:https://dns.alidns.com/dns-query
+*.dzmsite.com = server:https://dns.alidns.com/dns-query
 *.dzng.com = server:https://dns.alidns.com/dns-query
 *.dzoptics.com = server:https://dns.alidns.com/dns-query
 *.dzp.tv = server:https://dns.alidns.com/dns-query
@@ -31027,7 +30978,6 @@
 *.e43bb71e710272.beer = server:https://dns.alidns.com/dns-query
 *.e44e4e8c11020.beer = server:https://dns.alidns.com/dns-query
 *.e452a362210291.beer = server:https://dns.alidns.com/dns-query
-*.e495f363ae7187cf.com = server:https://dns.alidns.com/dns-query
 *.e4d0c1f1d1021.beer = server:https://dns.alidns.com/dns-query
 *.e4e4c4415fd53198.com = server:https://dns.alidns.com/dns-query
 *.e4l4.com = server:https://dns.alidns.com/dns-query
@@ -31666,7 +31616,6 @@
 *.edushi.com = server:https://dns.alidns.com/dns-query
 *.edusoho.com = server:https://dns.alidns.com/dns-query
 *.edusoho.net = server:https://dns.alidns.com/dns-query
-*.edusy.net = server:https://dns.alidns.com/dns-query
 *.edutao.com = server:https://dns.alidns.com/dns-query
 *.edutime.net = server:https://dns.alidns.com/dns-query
 *.edutrackconsult.com = server:https://dns.alidns.com/dns-query
@@ -32475,7 +32424,6 @@
 *.erdianzhang.com = server:https://dns.alidns.com/dns-query
 *.erdong.site = server:https://dns.alidns.com/dns-query
 *.erdosedu.com = server:https://dns.alidns.com/dns-query
-*.erdosrcb.com = server:https://dns.alidns.com/dns-query
 *.erdossysw.com = server:https://dns.alidns.com/dns-query
 *.erelcn.com = server:https://dns.alidns.com/dns-query
 *.erentalcarpro.com = server:https://dns.alidns.com/dns-query
@@ -32911,7 +32859,6 @@
 *.ewenyan.com = server:https://dns.alidns.com/dns-query
 *.ewhnzmqncm7.com = server:https://dns.alidns.com/dns-query
 *.ewidewater.com = server:https://dns.alidns.com/dns-query
-*.ewidewater.net = server:https://dns.alidns.com/dns-query
 *.ewie.net = server:https://dns.alidns.com/dns-query
 *.ewin007.com = server:https://dns.alidns.com/dns-query
 *.ewinshine.com = server:https://dns.alidns.com/dns-query
@@ -33233,7 +33180,6 @@
 *.f6yc.com = server:https://dns.alidns.com/dns-query
 *.f704204fa11021.beer = server:https://dns.alidns.com/dns-query
 *.f71f38e6a1015.beer = server:https://dns.alidns.com/dns-query
-*.f746c2da252336a6.com = server:https://dns.alidns.com/dns-query
 *.f7777.net = server:https://dns.alidns.com/dns-query
 *.f79ca805111881f6.com = server:https://dns.alidns.com/dns-query
 *.f79f9e5b71019.beer = server:https://dns.alidns.com/dns-query
@@ -34737,7 +34683,6 @@
 *.fkw.com = server:https://dns.alidns.com/dns-query
 *.fkw100.com = server:https://dns.alidns.com/dns-query
 *.fkwapi.com = server:https://dns.alidns.com/dns-query
-*.fkwatchtw.com = server:https://dns.alidns.com/dns-query
 *.fkwvya4035.vip = server:https://dns.alidns.com/dns-query
 *.fkyuer.com = server:https://dns.alidns.com/dns-query
 *.fkyun.com = server:https://dns.alidns.com/dns-query
@@ -35064,7 +35009,6 @@
 *.fornature.com = server:https://dns.alidns.com/dns-query
 *.forrealbio.com = server:https://dns.alidns.com/dns-query
 *.forrelaxing.com = server:https://dns.alidns.com/dns-query
-*.forshine.net = server:https://dns.alidns.com/dns-query
 *.forsol.net = server:https://dns.alidns.com/dns-query
 *.forsou.com = server:https://dns.alidns.com/dns-query
 *.forthxu.com = server:https://dns.alidns.com/dns-query
@@ -35199,7 +35143,6 @@
 *.fqxsw.cc = server:https://dns.alidns.com/dns-query
 *.fr-trading.com = server:https://dns.alidns.com/dns-query
 *.fr0528.art = server:https://dns.alidns.com/dns-query
-*.fr2007.com = server:https://dns.alidns.com/dns-query
 *.fractal-technology.com = server:https://dns.alidns.com/dns-query
 *.fraeco.com = server:https://dns.alidns.com/dns-query
 *.fraee.com = server:https://dns.alidns.com/dns-query
@@ -35924,6 +35867,7 @@
 *.fyjl.org = server:https://dns.alidns.com/dns-query
 *.fyjsz.net = server:https://dns.alidns.com/dns-query
 *.fyjzyxh.com = server:https://dns.alidns.com/dns-query
+*.fykxjs.com = server:https://dns.alidns.com/dns-query
 *.fylcg.com = server:https://dns.alidns.com/dns-query
 *.fyleasing.com = server:https://dns.alidns.com/dns-query
 *.fyluo.com = server:https://dns.alidns.com/dns-query
@@ -37293,6 +37237,7 @@
 *.geneway-bio.com = server:https://dns.alidns.com/dns-query
 *.geneworldcn.com = server:https://dns.alidns.com/dns-query
 *.genfleet.com = server:https://dns.alidns.com/dns-query
+*.genforce-tech.com = server:https://dns.alidns.com/dns-query
 *.gengchuangz.com = server:https://dns.alidns.com/dns-query
 *.gengdd.com = server:https://dns.alidns.com/dns-query
 *.gengfuwang.com = server:https://dns.alidns.com/dns-query
@@ -38064,7 +38009,6 @@
 *.ginshio.org = server:https://dns.alidns.com/dns-query
 *.ginwa.com = server:https://dns.alidns.com/dns-query
 *.ginza7.win = server:https://dns.alidns.com/dns-query
-*.gio07231rp.com = server:https://dns.alidns.com/dns-query
 *.gioccc.com = server:https://dns.alidns.com/dns-query
 *.giomeru.com = server:https://dns.alidns.com/dns-query
 *.gionee.com = server:https://dns.alidns.com/dns-query
@@ -39196,7 +39140,6 @@
 *.grescw.com = server:https://dns.alidns.com/dns-query
 *.gretf.com = server:https://dns.alidns.com/dns-query
 *.greyli.com = server:https://dns.alidns.com/dns-query
-*.greywolfcdn.net = server:https://dns.alidns.com/dns-query
 *.greywolffast.com = server:https://dns.alidns.com/dns-query
 *.greywolfns.com = server:https://dns.alidns.com/dns-query
 *.grfexpo.com = server:https://dns.alidns.com/dns-query
@@ -40001,6 +39944,7 @@
 *.guozhivip.com = server:https://dns.alidns.com/dns-query
 *.guozhuan.com = server:https://dns.alidns.com/dns-query
 *.guozhuangxincai.com = server:https://dns.alidns.com/dns-query
+*.guozi-robotics.com = server:https://dns.alidns.com/dns-query
 *.guoziyx.com = server:https://dns.alidns.com/dns-query
 *.guozunlaw.com = server:https://dns.alidns.com/dns-query
 *.gupang.com = server:https://dns.alidns.com/dns-query
@@ -40107,7 +40051,6 @@
 *.gwpdi.com = server:https://dns.alidns.com/dns-query
 *.gwpp.net = server:https://dns.alidns.com/dns-query
 *.gwpstools.com = server:https://dns.alidns.com/dns-query
-*.gwsdns.com = server:https://dns.alidns.com/dns-query
 *.gwtt.com = server:https://dns.alidns.com/dns-query
 *.gwwg.com = server:https://dns.alidns.com/dns-query
 *.gwxeda.com = server:https://dns.alidns.com/dns-query
@@ -40268,7 +40211,6 @@
 *.gxchlrf.com = server:https://dns.alidns.com/dns-query
 *.gxchr.com = server:https://dns.alidns.com/dns-query
 *.gxchuanghua.com = server:https://dns.alidns.com/dns-query
-*.gxchuanlan.com = server:https://dns.alidns.com/dns-query
 *.gxchuen.com = server:https://dns.alidns.com/dns-query
 *.gxchunmao.com = server:https://dns.alidns.com/dns-query
 *.gxchuxin.com = server:https://dns.alidns.com/dns-query
@@ -41235,7 +41177,6 @@
 *.gxqzrm.com = server:https://dns.alidns.com/dns-query
 *.gxqztv.com = server:https://dns.alidns.com/dns-query
 *.gxqztz.net = server:https://dns.alidns.com/dns-query
-*.gxqzxjh.com = server:https://dns.alidns.com/dns-query
 *.gxqzxw.com = server:https://dns.alidns.com/dns-query
 *.gxqzxyd.com = server:https://dns.alidns.com/dns-query
 *.gxqzyz.com = server:https://dns.alidns.com/dns-query
@@ -42207,7 +42148,6 @@
 *.gzkofa.com = server:https://dns.alidns.com/dns-query
 *.gzktm.com = server:https://dns.alidns.com/dns-query
 *.gzkuaiyingyong.com = server:https://dns.alidns.com/dns-query
-*.gzkunmao.com = server:https://dns.alidns.com/dns-query
 *.gzkydzyyy.com = server:https://dns.alidns.com/dns-query
 *.gzlarc.com = server:https://dns.alidns.com/dns-query
 *.gzlawyer.org = server:https://dns.alidns.com/dns-query
@@ -42451,7 +42391,6 @@
 *.gzxict.com = server:https://dns.alidns.com/dns-query
 *.gzxijiu.com = server:https://dns.alidns.com/dns-query
 *.gzxinfo.com = server:https://dns.alidns.com/dns-query
-*.gzxjgc.com = server:https://dns.alidns.com/dns-query
 *.gzxrsqj.com = server:https://dns.alidns.com/dns-query
 *.gzxswh.com = server:https://dns.alidns.com/dns-query
 *.gzxsyy.com = server:https://dns.alidns.com/dns-query
@@ -43656,6 +43595,7 @@
 *.hb-hengda.com = server:https://dns.alidns.com/dns-query
 *.hb-jn.com = server:https://dns.alidns.com/dns-query
 *.hb-sx.net = server:https://dns.alidns.com/dns-query
+*.hb-tulip.com = server:https://dns.alidns.com/dns-query
 *.hb-water.com = server:https://dns.alidns.com/dns-query
 *.hb-ws.com = server:https://dns.alidns.com/dns-query
 *.hb-xydq.com = server:https://dns.alidns.com/dns-query
@@ -45501,10 +45441,12 @@
 *.hjmarathon.com = server:https://dns.alidns.com/dns-query
 *.hjpcc.com = server:https://dns.alidns.com/dns-query
 *.hjpp.net = server:https://dns.alidns.com/dns-query
+*.hjqkox.com = server:https://dns.alidns.com/dns-query
 *.hjr-exchange.com = server:https://dns.alidns.com/dns-query
 *.hjren.com = server:https://dns.alidns.com/dns-query
 *.hjsj.com = server:https://dns.alidns.com/dns-query
 *.hjtag.com = server:https://dns.alidns.com/dns-query
+*.hjtlink.com = server:https://dns.alidns.com/dns-query
 *.hjunkel.com = server:https://dns.alidns.com/dns-query
 *.hjw169.com = server:https://dns.alidns.com/dns-query
 *.hjwsky.com = server:https://dns.alidns.com/dns-query
@@ -46144,7 +46086,6 @@
 *.hnyesf.com = server:https://dns.alidns.com/dns-query
 *.hnyfkj.com = server:https://dns.alidns.com/dns-query
 *.hnyichang.com = server:https://dns.alidns.com/dns-query
-*.hnyingfang.com = server:https://dns.alidns.com/dns-query
 *.hnyinhan.com = server:https://dns.alidns.com/dns-query
 *.hnyixiao.com = server:https://dns.alidns.com/dns-query
 *.hnysfww.com = server:https://dns.alidns.com/dns-query
@@ -46512,7 +46453,6 @@
 *.hoolinks.com = server:https://dns.alidns.com/dns-query
 *.hoolo.tv = server:https://dns.alidns.com/dns-query
 *.hoonup.com = server:https://dns.alidns.com/dns-query
-*.hoop-archi.com = server:https://dns.alidns.com/dns-query
 *.hoopchina.com = server:https://dns.alidns.com/dns-query
 *.hoopugames.net = server:https://dns.alidns.com/dns-query
 *.hoosho.com = server:https://dns.alidns.com/dns-query
@@ -47441,7 +47381,6 @@
 *.huangshaotian.com = server:https://dns.alidns.com/dns-query
 *.huangshimarathon.com = server:https://dns.alidns.com/dns-query
 *.huangwei.me = server:https://dns.alidns.com/dns-query
-*.huangwei.pro = server:https://dns.alidns.com/dns-query
 *.huangxin.dev = server:https://dns.alidns.com/dns-query
 *.huangxinwei.com = server:https://dns.alidns.com/dns-query
 *.huangyao.work = server:https://dns.alidns.com/dns-query
@@ -47888,7 +47827,6 @@
 *.huifenqi.com = server:https://dns.alidns.com/dns-query
 *.huifu.com = server:https://dns.alidns.com/dns-query
 *.huifudashi.com = server:https://dns.alidns.com/dns-query
-*.huifusihai.com = server:https://dns.alidns.com/dns-query
 *.huifutz.com = server:https://dns.alidns.com/dns-query
 *.huifuzhinan.com = server:https://dns.alidns.com/dns-query
 *.huigao-magnetics.com = server:https://dns.alidns.com/dns-query
@@ -48590,7 +48528,6 @@
 *.hxqcgf.com = server:https://dns.alidns.com/dns-query
 *.hxqcjt.com = server:https://dns.alidns.com/dns-query
 *.hxqgczx.com = server:https://dns.alidns.com/dns-query
-*.hxqtedu.com = server:https://dns.alidns.com/dns-query
 *.hxr100.com = server:https://dns.alidns.com/dns-query
 *.hxrc.com = server:https://dns.alidns.com/dns-query
 *.hxsd.com = server:https://dns.alidns.com/dns-query
@@ -50513,7 +50450,6 @@
 *.ikjtao.com = server:https://dns.alidns.com/dns-query
 *.ikjxc.com = server:https://dns.alidns.com/dns-query
 *.ikmoo.com = server:https://dns.alidns.com/dns-query
-*.ikmt.net = server:https://dns.alidns.com/dns-query
 *.ikncn.com = server:https://dns.alidns.com/dns-query
 *.ikonfx.com = server:https://dns.alidns.com/dns-query
 *.ikongjian.com = server:https://dns.alidns.com/dns-query
@@ -52138,7 +52074,6 @@
 *.iyaya.com = server:https://dns.alidns.com/dns-query
 *.iyaya.info = server:https://dns.alidns.com/dns-query
 *.iyb.tm = server:https://dns.alidns.com/dns-query
-*.iybtv.com = server:https://dns.alidns.com/dns-query
 *.iycsky.com = server:https://dns.alidns.com/dns-query
 *.iydsj.com = server:https://dns.alidns.com/dns-query
 *.iydu.net = server:https://dns.alidns.com/dns-query
@@ -52972,7 +52907,6 @@
 *.jhyongyou.com = server:https://dns.alidns.com/dns-query
 *.jhypcy.com = server:https://dns.alidns.com/dns-query
 *.jhytech.com = server:https://dns.alidns.com/dns-query
-*.jhyusqo.com = server:https://dns.alidns.com/dns-query
 *.jhzdhjt.com = server:https://dns.alidns.com/dns-query
 *.jhzhizao.com = server:https://dns.alidns.com/dns-query
 *.jhzhkj.com = server:https://dns.alidns.com/dns-query
@@ -53500,6 +53434,7 @@
 *.jiekon.com = server:https://dns.alidns.com/dns-query
 *.jiekou.ltd = server:https://dns.alidns.com/dns-query
 *.jielaigroup.com = server:https://dns.alidns.com/dns-query
+*.jiele.com = server:https://dns.alidns.com/dns-query
 *.jieliapp.com = server:https://dns.alidns.com/dns-query
 *.jielibj.com = server:https://dns.alidns.com/dns-query
 *.jieligo.net = server:https://dns.alidns.com/dns-query
@@ -55865,7 +55800,6 @@
 *.jszjzf.com = server:https://dns.alidns.com/dns-query
 *.jszkrz.com = server:https://dns.alidns.com/dns-query
 *.jszlgjg.com = server:https://dns.alidns.com/dns-query
-*.jszmgj.com = server:https://dns.alidns.com/dns-query
 *.jszmly.com = server:https://dns.alidns.com/dns-query
 *.jszn.ink = server:https://dns.alidns.com/dns-query
 *.jsznstny.com = server:https://dns.alidns.com/dns-query
@@ -56175,7 +56109,6 @@
 *.junwu262.com = server:https://dns.alidns.com/dns-query
 *.junxinmed.com = server:https://dns.alidns.com/dns-query
 *.junxunkji.com = server:https://dns.alidns.com/dns-query
-*.junyao.tech = server:https://dns.alidns.com/dns-query
 *.junyi-auto.com = server:https://dns.alidns.com/dns-query
 *.junyimeng.com = server:https://dns.alidns.com/dns-query
 *.junying.com = server:https://dns.alidns.com/dns-query
@@ -56399,6 +56332,7 @@
 *.jxdcnc.com = server:https://dns.alidns.com/dns-query
 *.jxdcost.com = server:https://dns.alidns.com/dns-query
 *.jxdcw.com = server:https://dns.alidns.com/dns-query
+*.jxddny.com = server:https://dns.alidns.com/dns-query
 *.jxdhhbhg.com = server:https://dns.alidns.com/dns-query
 *.jxdiguo.com = server:https://dns.alidns.com/dns-query
 *.jxdinfo.com = server:https://dns.alidns.com/dns-query
@@ -56441,6 +56375,7 @@
 *.jxhmxxjs.com = server:https://dns.alidns.com/dns-query
 *.jxhswhcb.com = server:https://dns.alidns.com/dns-query
 *.jxhuahang.com = server:https://dns.alidns.com/dns-query
+*.jxhuanyun.com = server:https://dns.alidns.com/dns-query
 *.jxhxmed.com = server:https://dns.alidns.com/dns-query
 *.jxhyxx.com = server:https://dns.alidns.com/dns-query
 *.jxiaolan.com = server:https://dns.alidns.com/dns-query
@@ -56472,7 +56407,6 @@
 *.jxlygo.com = server:https://dns.alidns.com/dns-query
 *.jxmhp.com = server:https://dns.alidns.com/dns-query
 *.jxmj.com = server:https://dns.alidns.com/dns-query
-*.jxmlkd.com = server:https://dns.alidns.com/dns-query
 *.jxmrfire.com = server:https://dns.alidns.com/dns-query
 *.jxmy18.com = server:https://dns.alidns.com/dns-query
 *.jxncyy.com = server:https://dns.alidns.com/dns-query
@@ -57588,7 +57522,6 @@
 *.keruyun.com = server:https://dns.alidns.com/dns-query
 *.keruyun.net = server:https://dns.alidns.com/dns-query
 *.kery-pharm.com = server:https://dns.alidns.com/dns-query
-*.kerysoft.com = server:https://dns.alidns.com/dns-query
 *.kesci.com = server:https://dns.alidns.com/dns-query
 *.kesheng.com = server:https://dns.alidns.com/dns-query
 *.keshenwei.com = server:https://dns.alidns.com/dns-query
@@ -57761,6 +57694,7 @@
 *.kimxz.com = server:https://dns.alidns.com/dns-query
 *.kina.cc = server:https://dns.alidns.com/dns-query
 *.kinbull.com = server:https://dns.alidns.com/dns-query
+*.kincony.com = server:https://dns.alidns.com/dns-query
 *.kindechem.com = server:https://dns.alidns.com/dns-query
 *.kindlelib.com = server:https://dns.alidns.com/dns-query
 *.kindobest.com = server:https://dns.alidns.com/dns-query
@@ -57950,7 +57884,6 @@
 *.kjtianshanxu.com = server:https://dns.alidns.com/dns-query
 *.kjtong.com = server:https://dns.alidns.com/dns-query
 *.kjtpay.com = server:https://dns.alidns.com/dns-query
-*.kjutf-uejfncpo72u.com = server:https://dns.alidns.com/dns-query
 *.kjw.cc = server:https://dns.alidns.com/dns-query
 *.kjwlxt.com = server:https://dns.alidns.com/dns-query
 *.kjwugx.com = server:https://dns.alidns.com/dns-query
@@ -61047,7 +60980,6 @@
 *.lingshenxl.com = server:https://dns.alidns.com/dns-query
 *.lingshi.com = server:https://dns.alidns.com/dns-query
 *.lingshimiyu.com = server:https://dns.alidns.com/dns-query
-*.lingshou.com = server:https://dns.alidns.com/dns-query
 *.lingshoujia.com = server:https://dns.alidns.com/dns-query
 *.lingshunlab.com = server:https://dns.alidns.com/dns-query
 *.lingsky.com = server:https://dns.alidns.com/dns-query
@@ -61430,7 +61362,6 @@
 *.liunian.info = server:https://dns.alidns.com/dns-query
 *.liunianbanxia.com = server:https://dns.alidns.com/dns-query
 *.liunn.com = server:https://dns.alidns.com/dns-query
-*.liuqh.icu = server:https://dns.alidns.com/dns-query
 *.liurq.com = server:https://dns.alidns.com/dns-query
 *.liushen.fun = server:https://dns.alidns.com/dns-query
 *.liushidong.com = server:https://dns.alidns.com/dns-query
@@ -62250,6 +62181,7 @@
 *.lqbby.com = server:https://dns.alidns.com/dns-query
 *.lqbj.com = server:https://dns.alidns.com/dns-query
 *.lqbj66.com = server:https://dns.alidns.com/dns-query
+*.lqfaka.com = server:https://dns.alidns.com/dns-query
 *.lqfeather.com = server:https://dns.alidns.com/dns-query
 *.lqgy.com = server:https://dns.alidns.com/dns-query
 *.lqjob88.com = server:https://dns.alidns.com/dns-query
@@ -62384,7 +62316,6 @@
 *.lsun.net = server:https://dns.alidns.com/dns-query
 *.lsuoled.com = server:https://dns.alidns.com/dns-query
 *.lsup.net = server:https://dns.alidns.com/dns-query
-*.lswfw.com = server:https://dns.alidns.com/dns-query
 *.lswgy.com = server:https://dns.alidns.com/dns-query
 *.lswld.com = server:https://dns.alidns.com/dns-query
 *.lswqw.com = server:https://dns.alidns.com/dns-query
@@ -62450,6 +62381,7 @@
 *.ltwkw.com = server:https://dns.alidns.com/dns-query
 *.ltwy.com = server:https://dns.alidns.com/dns-query
 *.ltxbbs.com = server:https://dns.alidns.com/dns-query
+*.ltxhglass.com = server:https://dns.alidns.com/dns-query
 *.ltxjob.com = server:https://dns.alidns.com/dns-query
 *.ltxsw.co = server:https://dns.alidns.com/dns-query
 *.ltxxgcxx.com = server:https://dns.alidns.com/dns-query
@@ -62853,7 +62785,6 @@
 *.lvzeep.com = server:https://dns.alidns.com/dns-query
 *.lvzheng.com = server:https://dns.alidns.com/dns-query
 *.lw0634.net = server:https://dns.alidns.com/dns-query
-*.lw5188.com = server:https://dns.alidns.com/dns-query
 *.lw54.com = server:https://dns.alidns.com/dns-query
 *.lwccc.net = server:https://dns.alidns.com/dns-query
 *.lwcj.com = server:https://dns.alidns.com/dns-query
@@ -64470,6 +64401,7 @@
 *.mei-shu.com = server:https://dns.alidns.com/dns-query
 *.mei-shu.net = server:https://dns.alidns.com/dns-query
 *.mei.com = server:https://dns.alidns.com/dns-query
+*.mei.wiki = server:https://dns.alidns.com/dns-query
 *.mei1.com = server:https://dns.alidns.com/dns-query
 *.mei1.info = server:https://dns.alidns.com/dns-query
 *.meia.me = server:https://dns.alidns.com/dns-query
@@ -64849,6 +64781,7 @@
 *.meppon.com = server:https://dns.alidns.com/dns-query
 *.meqlm.org = server:https://dns.alidns.com/dns-query
 *.merach.com = server:https://dns.alidns.com/dns-query
+*.mercallure.com = server:https://dns.alidns.com/dns-query
 *.mercedes-benzarena.com = server:https://dns.alidns.com/dns-query
 *.merchaincargo.com = server:https://dns.alidns.com/dns-query
 *.mereith.com = server:https://dns.alidns.com/dns-query
@@ -64865,7 +64798,6 @@
 *.mesince.com = server:https://dns.alidns.com/dns-query
 *.mesnac.com = server:https://dns.alidns.com/dns-query
 *.mesonart.com = server:https://dns.alidns.com/dns-query
-*.mesou.net = server:https://dns.alidns.com/dns-query
 *.mesowe.com = server:https://dns.alidns.com/dns-query
 *.mesresearch.com = server:https://dns.alidns.com/dns-query
 *.messawith.com = server:https://dns.alidns.com/dns-query
@@ -65032,7 +64964,6 @@
 *.mhi-ac.com = server:https://dns.alidns.com/dns-query
 *.mhinele.com = server:https://dns.alidns.com/dns-query
 *.mhito.net = server:https://dns.alidns.com/dns-query
-*.mhkami.com = server:https://dns.alidns.com/dns-query
 *.mhome.com = server:https://dns.alidns.com/dns-query
 *.mhotels.design = server:https://dns.alidns.com/dns-query
 *.mhpdf.com = server:https://dns.alidns.com/dns-query
@@ -66098,7 +66029,6 @@
 *.mofangyu.com = server:https://dns.alidns.com/dns-query
 *.mofanodes.com = server:https://dns.alidns.com/dns-query
 *.mofashi.ltd = server:https://dns.alidns.com/dns-query
-*.mofavideo.com = server:https://dns.alidns.com/dns-query
 *.mofazhu.com = server:https://dns.alidns.com/dns-query
 *.moffettai.com = server:https://dns.alidns.com/dns-query
 *.mofile.com = server:https://dns.alidns.com/dns-query
@@ -66242,6 +66172,7 @@
 *.mooctest.net = server:https://dns.alidns.com/dns-query
 *.moodmoon.com = server:https://dns.alidns.com/dns-query
 *.moodoon.com = server:https://dns.alidns.com/dns-query
+*.mooho.cloud = server:https://dns.alidns.com/dns-query
 *.moojing.com = server:https://dns.alidns.com/dns-query
 *.moojnn.com = server:https://dns.alidns.com/dns-query
 *.moolsun.com = server:https://dns.alidns.com/dns-query
@@ -67283,7 +67214,6 @@
 *.myzxyy.com = server:https://dns.alidns.com/dns-query
 *.myzyy.com = server:https://dns.alidns.com/dns-query
 *.myzyzy.com = server:https://dns.alidns.com/dns-query
-*.mz186.com = server:https://dns.alidns.com/dns-query
 *.mz52.com = server:https://dns.alidns.com/dns-query
 *.mz6.net = server:https://dns.alidns.com/dns-query
 *.mz99.com = server:https://dns.alidns.com/dns-query
@@ -67738,7 +67668,6 @@
 *.nbscxh.com = server:https://dns.alidns.com/dns-query
 *.nbsdjyy.com = server:https://dns.alidns.com/dns-query
 *.nbsfgy.com = server:https://dns.alidns.com/dns-query
-*.nbshunjian.com = server:https://dns.alidns.com/dns-query
 *.nbshuoxue.com = server:https://dns.alidns.com/dns-query
 *.nbshzwyy.com = server:https://dns.alidns.com/dns-query
 *.nbsijian.com = server:https://dns.alidns.com/dns-query
@@ -68870,7 +68799,6 @@
 *.njnii.com = server:https://dns.alidns.com/dns-query
 *.njningyi.com = server:https://dns.alidns.com/dns-query
 *.njnkxt.com = server:https://dns.alidns.com/dns-query
-*.njnkzz.com = server:https://dns.alidns.com/dns-query
 *.njnpfl.com = server:https://dns.alidns.com/dns-query
 *.njntdj.com = server:https://dns.alidns.com/dns-query
 *.njnwyy.com = server:https://dns.alidns.com/dns-query
@@ -70640,6 +70568,7 @@
 *.ooofoo.com = server:https://dns.alidns.com/dns-query
 *.ooogo.com = server:https://dns.alidns.com/dns-query
 *.ooojogo.com = server:https://dns.alidns.com/dns-query
+*.ooomba.com = server:https://dns.alidns.com/dns-query
 *.ooomm.com = server:https://dns.alidns.com/dns-query
 *.ooooai.com = server:https://dns.alidns.com/dns-query
 *.oooooooooo213.com = server:https://dns.alidns.com/dns-query
@@ -71808,7 +71737,6 @@
 *.pduoduo.vip = server:https://dns.alidns.com/dns-query
 *.pdvc.com = server:https://dns.alidns.com/dns-query
 *.pdvisa.com = server:https://dns.alidns.com/dns-query
-*.pdwxo.vip = server:https://dns.alidns.com/dns-query
 *.pdxx.net = server:https://dns.alidns.com/dns-query
 *.pdxxg.com = server:https://dns.alidns.com/dns-query
 *.pdzls.com = server:https://dns.alidns.com/dns-query
@@ -72344,6 +72272,7 @@
 *.pingzishuo.com = server:https://dns.alidns.com/dns-query
 *.pinhaohuo.com = server:https://dns.alidns.com/dns-query
 *.pinhui001.com = server:https://dns.alidns.com/dns-query
+*.pinhxd.com = server:https://dns.alidns.com/dns-query
 *.pinidea.co = server:https://dns.alidns.com/dns-query
 *.pinjiago.com = server:https://dns.alidns.com/dns-query
 *.pinjiao.com = server:https://dns.alidns.com/dns-query
@@ -72807,7 +72736,6 @@
 *.postgresqlchina.com = server:https://dns.alidns.com/dns-query
 *.postjson.com = server:https://dns.alidns.com/dns-query
 *.postpony.com = server:https://dns.alidns.com/dns-query
-*.postxin.com = server:https://dns.alidns.com/dns-query
 *.posyn.com = server:https://dns.alidns.com/dns-query
 *.poszjia.com = server:https://dns.alidns.com/dns-query
 *.potalapalace.com = server:https://dns.alidns.com/dns-query
@@ -73993,7 +73921,6 @@
 *.qian-gua.com = server:https://dns.alidns.com/dns-query
 *.qian-lai.com = server:https://dns.alidns.com/dns-query
 *.qian.lu = server:https://dns.alidns.com/dns-query
-*.qianaolawyer.com = server:https://dns.alidns.com/dns-query
 *.qianbao.com = server:https://dns.alidns.com/dns-query
 *.qianbaocard.com = server:https://dns.alidns.com/dns-query
 *.qianbaogroup.com = server:https://dns.alidns.com/dns-query
@@ -74395,7 +74322,6 @@
 *.qince.com = server:https://dns.alidns.com/dns-query
 *.qinchuan.com = server:https://dns.alidns.com/dns-query
 *.qinco.net = server:https://dns.alidns.com/dns-query
-*.qindaohotel.com = server:https://dns.alidns.com/dns-query
 *.qinde.net = server:https://dns.alidns.com/dns-query
 *.qineasy.com = server:https://dns.alidns.com/dns-query
 *.qinengdongfang.com = server:https://dns.alidns.com/dns-query
@@ -74858,6 +74784,7 @@
 *.qjwh.xyz = server:https://dns.alidns.com/dns-query
 *.qjwhzs.com = server:https://dns.alidns.com/dns-query
 *.qjxgold.com = server:https://dns.alidns.com/dns-query
+*.qjxns.com = server:https://dns.alidns.com/dns-query
 *.qjystang.com = server:https://dns.alidns.com/dns-query
 *.qjzl.com = server:https://dns.alidns.com/dns-query
 *.qjzyy.com = server:https://dns.alidns.com/dns-query
@@ -75724,6 +75651,7 @@
 *.quicklaser.com = server:https://dns.alidns.com/dns-query
 *.quicklyopen.com = server:https://dns.alidns.com/dns-query
 *.quickpark.cc = server:https://dns.alidns.com/dns-query
+*.quickqnet.com = server:https://dns.alidns.com/dns-query
 *.quicksdk.com = server:https://dns.alidns.com/dns-query
 *.quicksdk.net = server:https://dns.alidns.com/dns-query
 *.quickswan.com = server:https://dns.alidns.com/dns-query
@@ -76160,6 +76088,7 @@
 *.qzyz.com = server:https://dns.alidns.com/dns-query
 *.qzzdtc.com = server:https://dns.alidns.com/dns-query
 *.qzze.com = server:https://dns.alidns.com/dns-query
+*.qzzgame.com = server:https://dns.alidns.com/dns-query
 *.qzzgdl.com = server:https://dns.alidns.com/dns-query
 *.qzzhedu.com = server:https://dns.alidns.com/dns-query
 *.qzzhonghan.com = server:https://dns.alidns.com/dns-query
@@ -77101,6 +77030,7 @@
 *.rmjiaju.com = server:https://dns.alidns.com/dns-query
 *.rmjtxw.com = server:https://dns.alidns.com/dns-query
 *.rmk6.com = server:https://dns.alidns.com/dns-query
+*.rmlinking.com = server:https://dns.alidns.com/dns-query
 *.rmny.tech = server:https://dns.alidns.com/dns-query
 *.rmrbwc.com = server:https://dns.alidns.com/dns-query
 *.rmrun.com = server:https://dns.alidns.com/dns-query
@@ -79629,6 +79559,7 @@
 *.senyou.com = server:https://dns.alidns.com/dns-query
 *.senypc.com = server:https://dns.alidns.com/dns-query
 *.senyuanhi.com = server:https://dns.alidns.com/dns-query
+*.senyuanqc.com = server:https://dns.alidns.com/dns-query
 *.seo-lv.com = server:https://dns.alidns.com/dns-query
 *.seo.tm = server:https://dns.alidns.com/dns-query
 *.seo1158.com = server:https://dns.alidns.com/dns-query
@@ -81346,7 +81277,6 @@
 *.shoufaw.com = server:https://dns.alidns.com/dns-query
 *.shoufm.com = server:https://dns.alidns.com/dns-query
 *.shoufu.com = server:https://dns.alidns.com/dns-query
-*.shougongke.com = server:https://dns.alidns.com/dns-query
 *.shougongke.net = server:https://dns.alidns.com/dns-query
 *.shougoumingbiao.com = server:https://dns.alidns.com/dns-query
 *.shouhaoche.com = server:https://dns.alidns.com/dns-query
@@ -82015,7 +81945,6 @@
 *.shyy6688.com = server:https://dns.alidns.com/dns-query
 *.shyygh.com = server:https://dns.alidns.com/dns-query
 *.shyyp.net = server:https://dns.alidns.com/dns-query
-*.shyywz.com = server:https://dns.alidns.com/dns-query
 *.shyyy.com = server:https://dns.alidns.com/dns-query
 *.shyyyl.com = server:https://dns.alidns.com/dns-query
 *.shyz07.com = server:https://dns.alidns.com/dns-query
@@ -82474,6 +82403,7 @@
 *.sinotau.com = server:https://dns.alidns.com/dns-query
 *.sinotechline.com = server:https://dns.alidns.com/dns-query
 *.sinotf.com = server:https://dns.alidns.com/dns-query
+*.sinothaizone.com = server:https://dns.alidns.com/dns-query
 *.sinotide.com = server:https://dns.alidns.com/dns-query
 *.sinotn.com = server:https://dns.alidns.com/dns-query
 *.sinotone.net = server:https://dns.alidns.com/dns-query
@@ -83617,6 +83547,7 @@
 *.soquano.com = server:https://dns.alidns.com/dns-query
 *.sorftime.com = server:https://dns.alidns.com/dns-query
 *.soripan.net = server:https://dns.alidns.com/dns-query
+*.sorstek.com = server:https://dns.alidns.com/dns-query
 *.sorswitch.com = server:https://dns.alidns.com/dns-query
 *.sortdoor.com = server:https://dns.alidns.com/dns-query
 *.sos919.com = server:https://dns.alidns.com/dns-query
@@ -83930,6 +83861,7 @@
 *.spsicloudport.com = server:https://dns.alidns.com/dns-query
 *.spsisctgroup.com = server:https://dns.alidns.com/dns-query
 *.spsisncl.com = server:https://dns.alidns.com/dns-query
+*.spst2.com = server:https://dns.alidns.com/dns-query
 *.spsy.org = server:https://dns.alidns.com/dns-query
 *.sptcc.com = server:https://dns.alidns.com/dns-query
 *.sptccn.com = server:https://dns.alidns.com/dns-query
@@ -85688,6 +85620,7 @@
 *.sz-hiragawa.com = server:https://dns.alidns.com/dns-query
 *.sz-huashi.com = server:https://dns.alidns.com/dns-query
 *.sz-huayuan.com = server:https://dns.alidns.com/dns-query
+*.sz-huilian.com = server:https://dns.alidns.com/dns-query
 *.sz-hyauto.com = server:https://dns.alidns.com/dns-query
 *.sz-hzt.com = server:https://dns.alidns.com/dns-query
 *.sz-iso.com = server:https://dns.alidns.com/dns-query
@@ -85929,7 +85862,6 @@
 *.szgcyy.com = server:https://dns.alidns.com/dns-query
 *.szggzy.com = server:https://dns.alidns.com/dns-query
 *.szghedu.com = server:https://dns.alidns.com/dns-query
-*.szghgw.com = server:https://dns.alidns.com/dns-query
 *.szgjtc.com = server:https://dns.alidns.com/dns-query
 *.szgky.com = server:https://dns.alidns.com/dns-query
 *.szgla.com = server:https://dns.alidns.com/dns-query
@@ -86854,6 +86786,7 @@
 *.tantanscience.com = server:https://dns.alidns.com/dns-query
 *.tantu.com = server:https://dns.alidns.com/dns-query
 *.tantu.info = server:https://dns.alidns.com/dns-query
+*.tantu668.com = server:https://dns.alidns.com/dns-query
 *.tantuw.com = server:https://dns.alidns.com/dns-query
 *.tanwan.com = server:https://dns.alidns.com/dns-query
 *.tanwan123.net = server:https://dns.alidns.com/dns-query
@@ -87286,7 +87219,6 @@
 *.td300321.com = server:https://dns.alidns.com/dns-query
 *.td776.com = server:https://dns.alidns.com/dns-query
 *.td98.com = server:https://dns.alidns.com/dns-query
-*.tdances.com = server:https://dns.alidns.com/dns-query
 *.tdasz.com = server:https://dns.alidns.com/dns-query
 *.tdatamaster.com = server:https://dns.alidns.com/dns-query
 *.tdataspace.com = server:https://dns.alidns.com/dns-query
@@ -91079,7 +91011,6 @@
 *.udacity.com = server:https://dns.alidns.com/dns-query
 *.udalogistic.com = server:https://dns.alidns.com/dns-query
 *.udamall.com = server:https://dns.alidns.com/dns-query
-*.udangjia.com = server:https://dns.alidns.com/dns-query
 *.udasauto.com = server:https://dns.alidns.com/dns-query
 *.udashi.com = server:https://dns.alidns.com/dns-query
 *.udbac.com = server:https://dns.alidns.com/dns-query
@@ -91930,6 +91861,7 @@
 *.v3edu.org = server:https://dns.alidns.com/dns-query
 *.v3kyo4wb8i.com = server:https://dns.alidns.com/dns-query
 *.v3mh.com = server:https://dns.alidns.com/dns-query
+*.v3x9.com = server:https://dns.alidns.com/dns-query
 *.v4.cc = server:https://dns.alidns.com/dns-query
 *.v479.com = server:https://dns.alidns.com/dns-query
 *.v5.cc = server:https://dns.alidns.com/dns-query
@@ -92650,7 +92582,6 @@
 *.vmengblog.com = server:https://dns.alidns.com/dns-query
 *.vmeti.com = server:https://dns.alidns.com/dns-query
 *.vmic.xyz = server:https://dns.alidns.com/dns-query
-*.vmicloud.com = server:https://dns.alidns.com/dns-query
 *.vmkj.net = server:https://dns.alidns.com/dns-query
 *.vmlib.com = server:https://dns.alidns.com/dns-query
 *.vmoiver.com = server:https://dns.alidns.com/dns-query
@@ -92868,7 +92799,6 @@
 *.vomicer.com = server:https://dns.alidns.com/dns-query
 *.voming.com = server:https://dns.alidns.com/dns-query
 *.vommatec.com = server:https://dns.alidns.com/dns-query
-*.voneseals.com = server:https://dns.alidns.com/dns-query
 *.vonets.com = server:https://dns.alidns.com/dns-query
 *.vonwei.com = server:https://dns.alidns.com/dns-query
 *.voo0.com = server:https://dns.alidns.com/dns-query
@@ -93160,14 +93090,12 @@
 *.w3cways.com = server:https://dns.alidns.com/dns-query
 *.w3h5.com = server:https://dns.alidns.com/dns-query
 *.w3pop.com = server:https://dns.alidns.com/dns-query
-*.w3so.com = server:https://dns.alidns.com/dns-query
 *.w3techservices.com = server:https://dns.alidns.com/dns-query
 *.w3tt.com = server:https://dns.alidns.com/dns-query
 *.w3xue.com = server:https://dns.alidns.com/dns-query
 *.w4vwizxrvepq.com = server:https://dns.alidns.com/dns-query
 *.w5.com = server:https://dns.alidns.com/dns-query
 *.w61usi4a.org = server:https://dns.alidns.com/dns-query
-*.w6pdp.com = server:https://dns.alidns.com/dns-query
 *.w7.cc = server:https://dns.alidns.com/dns-query
 *.w7000.com = server:https://dns.alidns.com/dns-query
 *.w918.com = server:https://dns.alidns.com/dns-query
@@ -93543,7 +93471,6 @@
 *.wankacn.com = server:https://dns.alidns.com/dns-query
 *.wankacn.net = server:https://dns.alidns.com/dns-query
 *.wankamall.com = server:https://dns.alidns.com/dns-query
-*.wanke123.com = server:https://dns.alidns.com/dns-query
 *.wankeji.com = server:https://dns.alidns.com/dns-query
 *.wanku.com = server:https://dns.alidns.com/dns-query
 *.wanlaiwang.com = server:https://dns.alidns.com/dns-query
@@ -93817,6 +93744,7 @@
 *.wbtrans.com = server:https://dns.alidns.com/dns-query
 *.wbw.im = server:https://dns.alidns.com/dns-query
 *.wbwbwb.net = server:https://dns.alidns.com/dns-query
+*.wbweilicai.com = server:https://dns.alidns.com/dns-query
 *.wbxcx.net = server:https://dns.alidns.com/dns-query
 *.wbxinxi.com = server:https://dns.alidns.com/dns-query
 *.wbzd.net = server:https://dns.alidns.com/dns-query
@@ -94210,6 +94138,7 @@
 *.weijuju.com = server:https://dns.alidns.com/dns-query
 *.weikaowu.com = server:https://dns.alidns.com/dns-query
 *.weikasen.com = server:https://dns.alidns.com/dns-query
+*.weikazf.com = server:https://dns.alidns.com/dns-query
 *.weike.fm = server:https://dns.alidns.com/dns-query
 *.weike21.com = server:https://dns.alidns.com/dns-query
 *.weikeimg.com = server:https://dns.alidns.com/dns-query
@@ -98034,7 +97963,6 @@
 *.xiancn.com = server:https://dns.alidns.com/dns-query
 *.xiandaihospital.com = server:https://dns.alidns.com/dns-query
 *.xiandaimuye.com = server:https://dns.alidns.com/dns-query
-*.xiandaiyuwen.com = server:https://dns.alidns.com/dns-query
 *.xiandengdengguan.com = server:https://dns.alidns.com/dns-query
 *.xianer.net = server:https://dns.alidns.com/dns-query
 *.xianfae.com = server:https://dns.alidns.com/dns-query
@@ -98175,6 +98103,7 @@
 *.xiansuan.com = server:https://dns.alidns.com/dns-query
 *.xiantao-marathon.com = server:https://dns.alidns.com/dns-query
 *.xiantao.com = server:https://dns.alidns.com/dns-query
+*.xiantaohuangshan.com = server:https://dns.alidns.com/dns-query
 *.xianxiadao.com = server:https://dns.alidns.com/dns-query
 *.xianxiadao.net = server:https://dns.alidns.com/dns-query
 *.xianxiazhuanjz.com = server:https://dns.alidns.com/dns-query
@@ -100174,7 +100103,6 @@
 *.xn--tlq092au7hsi3a.com = server:https://dns.alidns.com/dns-query
 *.xn--tlqz3aj77agil76ww4ni2k.com = server:https://dns.alidns.com/dns-query
 *.xn--tqq89g2tjj5x8xs.com = server:https://dns.alidns.com/dns-query
-*.xn--vcso1ukuz.net = server:https://dns.alidns.com/dns-query
 *.xn--vcsu51b3zccpm.com = server:https://dns.alidns.com/dns-query
 *.xn--vhq3m33sbqhpsmtnuxfq.com = server:https://dns.alidns.com/dns-query
 *.xn--vhq3mr8b802a.net = server:https://dns.alidns.com/dns-query
@@ -101049,6 +100977,7 @@
 *.xxlsmqzs.com = server:https://dns.alidns.com/dns-query
 *.xxlwin.com = server:https://dns.alidns.com/dns-query
 *.xxmac.com = server:https://dns.alidns.com/dns-query
+*.xxmlyy.com = server:https://dns.alidns.com/dns-query
 *.xxmyf.com = server:https://dns.alidns.com/dns-query
 *.xxnet.vip = server:https://dns.alidns.com/dns-query
 *.xxnets.net = server:https://dns.alidns.com/dns-query
@@ -101341,6 +101270,7 @@
 *.xzdag.com = server:https://dns.alidns.com/dns-query
 *.xzdfcd.com = server:https://dns.alidns.com/dns-query
 *.xzdfyy.com = server:https://dns.alidns.com/dns-query
+*.xzdkyq.com = server:https://dns.alidns.com/dns-query
 *.xzdtjt.com = server:https://dns.alidns.com/dns-query
 *.xzep.net = server:https://dns.alidns.com/dns-query
 *.xzepa.com = server:https://dns.alidns.com/dns-query
@@ -102009,7 +101939,6 @@
 *.yc9y.com = server:https://dns.alidns.com/dns-query
 *.ycait.com = server:https://dns.alidns.com/dns-query
 *.ycamlyy.com = server:https://dns.alidns.com/dns-query
-*.ycandyz.com = server:https://dns.alidns.com/dns-query
 *.ycangels.com = server:https://dns.alidns.com/dns-query
 *.ycaqr.com = server:https://dns.alidns.com/dns-query
 *.ycb.com = server:https://dns.alidns.com/dns-query
@@ -102193,7 +102122,6 @@
 *.ydl-sh.com = server:https://dns.alidns.com/dns-query
 *.ydl.com = server:https://dns.alidns.com/dns-query
 *.ydlcdn.com = server:https://dns.alidns.com/dns-query
-*.ydlut.com = server:https://dns.alidns.com/dns-query
 *.ydmel.com = server:https://dns.alidns.com/dns-query
 *.ydmeng.com = server:https://dns.alidns.com/dns-query
 *.ydnewmedia.com = server:https://dns.alidns.com/dns-query
@@ -102201,7 +102129,6 @@
 *.ydr.me = server:https://dns.alidns.com/dns-query
 *.ydsaso.com = server:https://dns.alidns.com/dns-query
 *.ydscan.net = server:https://dns.alidns.com/dns-query
-*.ydsjjs.com = server:https://dns.alidns.com/dns-query
 *.ydsjpt.com = server:https://dns.alidns.com/dns-query
 *.ydsrmyy.com = server:https://dns.alidns.com/dns-query
 *.ydstatic.com = server:https://dns.alidns.com/dns-query
@@ -102341,7 +102268,6 @@
 *.yemacaijing.com = server:https://dns.alidns.com/dns-query
 *.yemadai.com = server:https://dns.alidns.com/dns-query
 *.yemajun.com = server:https://dns.alidns.com/dns-query
-*.yemancomic.com = server:https://dns.alidns.com/dns-query
 *.yemaosheji.com = server:https://dns.alidns.com/dns-query
 *.yemaosoft.com = server:https://dns.alidns.com/dns-query
 *.yemayun.com = server:https://dns.alidns.com/dns-query
@@ -102489,6 +102415,7 @@
 *.yffzkl.com = server:https://dns.alidns.com/dns-query
 *.yfgg.com = server:https://dns.alidns.com/dns-query
 *.yfgj68.com = server:https://dns.alidns.com/dns-query
+*.yfhcname2.com = server:https://dns.alidns.com/dns-query
 *.yfhex.com = server:https://dns.alidns.com/dns-query
 *.yfhl.net = server:https://dns.alidns.com/dns-query
 *.yfhospital.com = server:https://dns.alidns.com/dns-query
@@ -102497,7 +102424,6 @@
 *.yfiot.com = server:https://dns.alidns.com/dns-query
 *.yfisher.com = server:https://dns.alidns.com/dns-query
 *.yfjiakao.com = server:https://dns.alidns.com/dns-query
-*.yfjnjc.com = server:https://dns.alidns.com/dns-query
 *.yfklxz.com = server:https://dns.alidns.com/dns-query
 *.yflcloud.online = server:https://dns.alidns.com/dns-query
 *.yfldocker.com = server:https://dns.alidns.com/dns-query
@@ -103520,7 +103446,6 @@
 *.yizhanzx.com = server:https://dns.alidns.com/dns-query
 *.yizhaopin.com = server:https://dns.alidns.com/dns-query
 *.yizhedian.com = server:https://dns.alidns.com/dns-query
-*.yizhengwx.com = server:https://dns.alidns.com/dns-query
 *.yizhibi.com = server:https://dns.alidns.com/dns-query
 *.yizhibo.com = server:https://dns.alidns.com/dns-query
 *.yizhifubj.com = server:https://dns.alidns.com/dns-query
@@ -103890,7 +103815,6 @@
 *.ynfmly.com = server:https://dns.alidns.com/dns-query
 *.ynfww.com = server:https://dns.alidns.com/dns-query
 *.ynfwyy.com = server:https://dns.alidns.com/dns-query
-*.ynfxw.com = server:https://dns.alidns.com/dns-query
 *.yngas.net = server:https://dns.alidns.com/dns-query
 *.yngp.com = server:https://dns.alidns.com/dns-query
 *.yngsxy.net = server:https://dns.alidns.com/dns-query
@@ -104872,7 +104796,6 @@
 *.ytccr.com = server:https://dns.alidns.com/dns-query
 *.ytchangyang.com = server:https://dns.alidns.com/dns-query
 *.ytcj.com = server:https://dns.alidns.com/dns-query
-*.ytcnc.net = server:https://dns.alidns.com/dns-query
 *.ytcutv.com = server:https://dns.alidns.com/dns-query
 *.ytdaily.com = server:https://dns.alidns.com/dns-query
 *.ytdcloud.com = server:https://dns.alidns.com/dns-query
@@ -105353,6 +105276,7 @@
 *.yun-kai.com = server:https://dns.alidns.com/dns-query
 *.yun-live.com = server:https://dns.alidns.com/dns-query
 *.yun-wp.com = server:https://dns.alidns.com/dns-query
+*.yun.wtf = server:https://dns.alidns.com/dns-query
 *.yun123.com = server:https://dns.alidns.com/dns-query
 *.yun163.net = server:https://dns.alidns.com/dns-query
 *.yun5.vip = server:https://dns.alidns.com/dns-query
@@ -105364,6 +105288,7 @@
 *.yunaq.com = server:https://dns.alidns.com/dns-query
 *.yunarm.com = server:https://dns.alidns.com/dns-query
 *.yunassess.com = server:https://dns.alidns.com/dns-query
+*.yunauth.com = server:https://dns.alidns.com/dns-query
 *.yunaw.com = server:https://dns.alidns.com/dns-query
 *.yunba.io = server:https://dns.alidns.com/dns-query
 *.yunban.com = server:https://dns.alidns.com/dns-query
@@ -106037,7 +105962,6 @@
 *.yxrb.net = server:https://dns.alidns.com/dns-query
 *.yxrcw.com = server:https://dns.alidns.com/dns-query
 *.yxrj.com = server:https://dns.alidns.com/dns-query
-*.yxsc33.com = server:https://dns.alidns.com/dns-query
 *.yxsea.com = server:https://dns.alidns.com/dns-query
 *.yxsgame.com = server:https://dns.alidns.com/dns-query
 *.yxsos.com = server:https://dns.alidns.com/dns-query
@@ -106106,7 +106030,6 @@
 *.yyds.co = server:https://dns.alidns.com/dns-query
 *.yyds.pink = server:https://dns.alidns.com/dns-query
 *.yyds.space = server:https://dns.alidns.com/dns-query
-*.yydsmh.com = server:https://dns.alidns.com/dns-query
 *.yydsok.com = server:https://dns.alidns.com/dns-query
 *.yydsym.com = server:https://dns.alidns.com/dns-query
 *.yydszp.com = server:https://dns.alidns.com/dns-query
@@ -106120,7 +106043,6 @@
 *.yyfdcw.com = server:https://dns.alidns.com/dns-query
 *.yyfqm.com = server:https://dns.alidns.com/dns-query
 *.yyfunning.com = server:https://dns.alidns.com/dns-query
-*.yyg.com = server:https://dns.alidns.com/dns-query
 *.yyg120.com = server:https://dns.alidns.com/dns-query
 *.yygamedev.com = server:https://dns.alidns.com/dns-query
 *.yyge.com = server:https://dns.alidns.com/dns-query
@@ -107554,7 +107476,6 @@
 *.zhaosheng365.com = server:https://dns.alidns.com/dns-query
 *.zhaoshixi.com = server:https://dns.alidns.com/dns-query
 *.zhaoshizhou.xyz = server:https://dns.alidns.com/dns-query
-*.zhaosifang.com = server:https://dns.alidns.com/dns-query
 *.zhaosuliao.com = server:https://dns.alidns.com/dns-query
 *.zhaosw.com = server:https://dns.alidns.com/dns-query
 *.zhaota8.com = server:https://dns.alidns.com/dns-query
@@ -108459,7 +108380,6 @@
 *.zhoujifood.com = server:https://dns.alidns.com/dns-query
 *.zhoujunji.com = server:https://dns.alidns.com/dns-query
 *.zhoukaiwen.com = server:https://dns.alidns.com/dns-query
-*.zhoulaoshi.club = server:https://dns.alidns.com/dns-query
 *.zhoulingjie.com = server:https://dns.alidns.com/dns-query
 *.zhoulishan.site = server:https://dns.alidns.com/dns-query
 *.zhoupu123.com = server:https://dns.alidns.com/dns-query
@@ -109511,7 +109431,6 @@
 *.zjsw.org = server:https://dns.alidns.com/dns-query
 *.zjswxpx.com = server:https://dns.alidns.com/dns-query
 *.zjsxkj.com = server:https://dns.alidns.com/dns-query
-*.zjsxlt.com = server:https://dns.alidns.com/dns-query
 *.zjsxrz.com = server:https://dns.alidns.com/dns-query
 *.zjsxss.com = server:https://dns.alidns.com/dns-query
 *.zjsyyhyxh.com = server:https://dns.alidns.com/dns-query
@@ -109709,6 +109628,7 @@
 *.zkrdlab.com = server:https://dns.alidns.com/dns-query
 *.zkrsks.com = server:https://dns.alidns.com/dns-query
 *.zksbxhyxh.com = server:https://dns.alidns.com/dns-query
+*.zkscaiot.com = server:https://dns.alidns.com/dns-query
 *.zkscgj.com = server:https://dns.alidns.com/dns-query
 *.zksglaser.com = server:https://dns.alidns.com/dns-query
 *.zkshare.com = server:https://dns.alidns.com/dns-query
