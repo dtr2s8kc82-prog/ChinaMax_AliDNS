@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-09 07:22:50Z
+#!updated=2026-09-10 07:17:32Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -104863,6 +104863,7 @@
 *.yuanpanguoji.com = server:https://dns.alidns.com/dns-query
 *.yuanqiao.net = server:https://dns.alidns.com/dns-query
 *.yuanqiao.pw = server:https://dns.alidns.com/dns-query
+*.yuanqidesk.com = server:https://dns.alidns.com/dns-query
 *.yuanqilt.com = server:https://dns.alidns.com/dns-query
 *.yuanqingsh.com = server:https://dns.alidns.com/dns-query
 *.yuanqisenlin.com = server:https://dns.alidns.com/dns-query
