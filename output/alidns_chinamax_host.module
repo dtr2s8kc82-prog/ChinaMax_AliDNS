@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-13 07:27:11Z
+#!updated=2026-09-14 07:52:54Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -83776,7 +83776,6 @@
 *.spsicloudport.com = server:https://dns.alidns.com/dns-query
 *.spsisctgroup.com = server:https://dns.alidns.com/dns-query
 *.spsisncl.com = server:https://dns.alidns.com/dns-query
-*.spst2.com = server:https://dns.alidns.com/dns-query
 *.spsy.org = server:https://dns.alidns.com/dns-query
 *.sptcc.com = server:https://dns.alidns.com/dns-query
 *.sptccn.com = server:https://dns.alidns.com/dns-query
