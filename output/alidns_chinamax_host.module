@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-21 07:56:42Z
+#!updated=2026-09-22 07:41:36Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -34813,6 +34813,7 @@
 *.fnos.net = server:https://dns.alidns.com/dns-query
 *.fnrcw.com = server:https://dns.alidns.com/dns-query
 *.fnrczp.com = server:https://dns.alidns.com/dns-query
+*.fnrrc.com = server:https://dns.alidns.com/dns-query
 *.fnsbqvz.com = server:https://dns.alidns.com/dns-query
 *.fnscore.com = server:https://dns.alidns.com/dns-query
 *.fnwlzz.com = server:https://dns.alidns.com/dns-query
@@ -38655,6 +38656,7 @@
 *.gongkongsaas.com = server:https://dns.alidns.com/dns-query
 *.gonglf.com = server:https://dns.alidns.com/dns-query
 *.gonglve.net = server:https://dns.alidns.com/dns-query
+*.gongniukaiguan.net = server:https://dns.alidns.com/dns-query
 *.gongnou.com = server:https://dns.alidns.com/dns-query
 *.gongpin.net = server:https://dns.alidns.com/dns-query
 *.gongpingjia.com = server:https://dns.alidns.com/dns-query
@@ -64169,6 +64171,7 @@
 *.mdbchina.com = server:https://dns.alidns.com/dns-query
 *.mdbimg.com = server:https://dns.alidns.com/dns-query
 *.mdclub.org = server:https://dns.alidns.com/dns-query
+*.mddclass.com = server:https://dns.alidns.com/dns-query
 *.mdddg.com = server:https://dns.alidns.com/dns-query
 *.mddj.com = server:https://dns.alidns.com/dns-query
 *.mddlsa.com = server:https://dns.alidns.com/dns-query
@@ -75297,6 +75300,7 @@
 *.qudao168.com = server:https://dns.alidns.com/dns-query
 *.qudaowuyou.com = server:https://dns.alidns.com/dns-query
 *.qudayun.com = server:https://dns.alidns.com/dns-query
+*.qudian.com = server:https://dns.alidns.com/dns-query
 *.qudingshui.com = server:https://dns.alidns.com/dns-query
 *.qudong.com = server:https://dns.alidns.com/dns-query
 *.qudong51.net = server:https://dns.alidns.com/dns-query
@@ -90838,6 +90842,7 @@
 *.uboat100.com = server:https://dns.alidns.com/dns-query
 *.uborn.net = server:https://dns.alidns.com/dns-query
 *.uboxol.com = server:https://dns.alidns.com/dns-query
+*.uboxs.com = server:https://dns.alidns.com/dns-query
 *.ubs001.com = server:https://dns.alidns.com/dns-query
 *.ubssdic.com = server:https://dns.alidns.com/dns-query
 *.ubtrobot.com = server:https://dns.alidns.com/dns-query
@@ -92945,6 +92950,7 @@
 *.vx.com = server:https://dns.alidns.com/dns-query
 *.vx56.com = server:https://dns.alidns.com/dns-query
 *.vxe.com = server:https://dns.alidns.com/dns-query
+*.vxhcm.com = server:https://dns.alidns.com/dns-query
 *.vxia.net = server:https://dns.alidns.com/dns-query
 *.vxiaocheng.com = server:https://dns.alidns.com/dns-query
 *.vxinyou.com = server:https://dns.alidns.com/dns-query
@@ -104041,6 +104047,7 @@
 *.youbangyun.com = server:https://dns.alidns.com/dns-query
 *.youbbs.org = server:https://dns.alidns.com/dns-query
 *.youbian.com = server:https://dns.alidns.com/dns-query
+*.youbianku.com = server:https://dns.alidns.com/dns-query
 *.youbibi.com = server:https://dns.alidns.com/dns-query
 *.youbike.me = server:https://dns.alidns.com/dns-query
 *.youbikecn.com = server:https://dns.alidns.com/dns-query
@@ -108150,6 +108157,7 @@
 *.zhonglianhuashu.com = server:https://dns.alidns.com/dns-query
 *.zhonglianhuaxin.com = server:https://dns.alidns.com/dns-query
 *.zhonglianyx.com = server:https://dns.alidns.com/dns-query
+*.zhongliujie.com = server:https://dns.alidns.com/dns-query
 *.zhongliusp.com = server:https://dns.alidns.com/dns-query
 *.zhongliuyiyuan.com = server:https://dns.alidns.com/dns-query
 *.zhonglue-consulting.com = server:https://dns.alidns.com/dns-query
@@ -110359,6 +110367,7 @@
 *.zuixu.com = server:https://dns.alidns.com/dns-query
 *.zuiyanke.com = server:https://dns.alidns.com/dns-query
 *.zuiyou.com = server:https://dns.alidns.com/dns-query
+*.zuiyou.tv = server:https://dns.alidns.com/dns-query
 *.zuiyouxi.com = server:https://dns.alidns.com/dns-query
 *.zuizhifu.com = server:https://dns.alidns.com/dns-query
 *.zuji360.com = server:https://dns.alidns.com/dns-query
