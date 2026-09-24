@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-23 07:44:20Z
+#!updated=2026-09-24 07:35:00Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -82497,6 +82497,7 @@
 *.sjf029.com = server:https://dns.alidns.com/dns-query
 *.sjfcdn.com = server:https://dns.alidns.com/dns-query
 *.sjfh168.com = server:https://dns.alidns.com/dns-query
+*.sjfls6.com = server:https://dns.alidns.com/dns-query
 *.sjfpro.com = server:https://dns.alidns.com/dns-query
 *.sjfzxm.com = server:https://dns.alidns.com/dns-query
 *.sjg8.com = server:https://dns.alidns.com/dns-query
