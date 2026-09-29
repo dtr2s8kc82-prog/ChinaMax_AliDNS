@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-09-28 08:40:39Z
+#!updated=2026-09-29 08:28:32Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
