@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-10-23 07:29:44Z
+#!updated=2026-10-24 07:16:11Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -85699,6 +85699,8 @@
 *.szty56.com = server:https://dns.alidns.com/dns-query
 *.sztz.org = server:https://dns.alidns.com/dns-query
 *.sztzzs.com = server:https://dns.alidns.com/dns-query
+*.szu.app = server:https://dns.alidns.com/dns-query
+*.szu.moe = server:https://dns.alidns.com/dns-query
 *.szuavia.org = server:https://dns.alidns.com/dns-query
 *.szudad.com = server:https://dns.alidns.com/dns-query
 *.szunionlab.com = server:https://dns.alidns.com/dns-query
