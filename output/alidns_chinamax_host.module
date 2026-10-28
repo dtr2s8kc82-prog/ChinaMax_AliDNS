@@ -1,6 +1,6 @@
 #!name=AliDNS for ChinaMax Domains
 #!desc=Auto-generated. Domains in ChinaMax_Domain.list resolve via AliDNS DoH.
-#!updated=2026-10-27 07:49:59Z
+#!updated=2026-10-28 08:27:53Z
 
 [Host]
 *.0.zone = server:https://dns.alidns.com/dns-query
@@ -33762,6 +33762,7 @@
 *.fillersmart.com = server:https://dns.alidns.com/dns-query
 *.fillseo.com = server:https://dns.alidns.com/dns-query
 *.film-yuelongchina.com = server:https://dns.alidns.com/dns-query
+*.filmorigin.com = server:https://dns.alidns.com/dns-query
 *.fily.fun = server:https://dns.alidns.com/dns-query
 *.fim34s.com = server:https://dns.alidns.com/dns-query
 *.fimmu.com = server:https://dns.alidns.com/dns-query
@@ -56276,6 +56277,7 @@
 *.kakappt.com = server:https://dns.alidns.com/dns-query
 *.kakashuzi.net = server:https://dns.alidns.com/dns-query
 *.kakatx.com = server:https://dns.alidns.com/dns-query
+*.kakaxing.com = server:https://dns.alidns.com/dns-query
 *.kakayuy.net = server:https://dns.alidns.com/dns-query
 *.kaken-china.com = server:https://dns.alidns.com/dns-query
 *.kaku-scdn.com = server:https://dns.alidns.com/dns-query
